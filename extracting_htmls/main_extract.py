@@ -12,7 +12,7 @@ import time
 
 import pyautogui
 
-from extracting_html.extracting_modules import click_consent_button, initiate_driver, wait_to_translate
+from extracting_htmls.extracting_modules import click_consent_button, initiate_driver, wait_to_translate
 
 
 url = "https://www.69shuba.com/txt/30539/24457324#google_vignette"
@@ -26,24 +26,27 @@ pyautogui.press('esc')
 
 driver = wait_to_translate(driver, url=url)
 
-try:
- # Wait for the element to be visible and then find the element
-    h1_element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, "hide720")))
+cycles = 10
 
- # Check if the element's text content contains "Chapter"
-    if "Chapter" in h1_element.text:
-        print("Element contains 'Chapter' in its text content")
+for _ in range(cycles):
+    try:
+    # Wait for the element to be visible and then find the element
+        h1_element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, "hide720")))
 
-    else:
-        pyautogui.hotkey('shift', 'right')
-        print("Element does not contain 'Chapter' in its text content")
+    # Check if the element's text content contains "Chapter"
+        if "Chapter" in h1_element.text:
+            print("Element contains 'Chapter' in its text content")
 
-except Exception as e:
-    print(f"An error occurred: {e}")
-finally:
-    # Close the browser
-    #  time.sleep(50)
-    driver.quit()
+        else:
+            pyautogui.hotkey('shift', 'right')
+            print("Element does not contain 'Chapter' in its text content")
+
+    except Exception as e:
+        print(f"An error occurred: {e}")
+    finally:
+        # Close the browser
+        #  time.sleep(50)
+        driver.quit()
 
 
 

@@ -16,20 +16,20 @@ from auto_conv.txt_to_epub import txt_to_epub
 
 from share_file.g_drive_upolad import upload_f_to_g_drive
 
-# num_pages = 10
-#   # Change this to the number of pages you want to scrape
+num_pages = 10
+  # Change this to the number of pages you want to scrape
 
 
-# orienting_tabs()
+orienting_tabs()
 
-# preload_pages_same_tab(num_pages)
+preload_pages_same_tab(num_pages)
 
-# for _ in range(num_pages):
-#     process_page()
+for _ in range(num_pages):
+    process_page()
 
-# sav()
+sav()
 
-# skip_tab()
+skip_tab()
 
 file_path_extracted_text = 'text_files/extracted_text.txt'
 chapter_indexes  = name_the_file(file_path_extracted_text)
