@@ -51,11 +51,11 @@ def wait_to_translate(driver, url):
     return driver
 
 
-def copy_main_html(driver, class_name):
+def copy_useful_html(driver):
 
    try:
        # Wait for the element to be visible and then find the element
-        element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, class_name)))
+        element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, 'txtnav')))
 
        # Get the HTML content of the element
         html_content = element.get_attribute("outerHTML")
