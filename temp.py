@@ -1,13 +1,15 @@
-import os
+import pyperclip
 
-from share_file.g_drive_upolad import upload_f_to_g_drive
+p = pyperclip.paste()
 
-g_drive_folder_id = '1D31g6amVH_yiEuNkECC2sDGJJ81J2LhK'
+lines_li = p.split('\n')
 
-chapter_indexes = ['1125', '1129']
+del lines_li[:4]
+# print(p)
 
-dowloads_f_path = "C:/Users/91833/Downloads"
+print(lines_li[0])
 
-uplaod_file_name = f'{chapter_indexes[0]}-{chapter_indexes[-1]}_cleaned.epub'
+# file_path = 'text_files/paste.txt'
 
-upload_f_to_g_drive(folder_path=dowloads_f_path, file_name=uplaod_file_name, folder_id=g_drive_folder_id)
+# with open(file_path, 'w', encoding='utf-8') as file:
+#     file.write()

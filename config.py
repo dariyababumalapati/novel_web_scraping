@@ -15,3 +15,23 @@ class VariablesCall:
     }
 
     prefixes_to_remove_list = ['2020-', 'Holy Roman Empire-', 'Close']
+
+    texts_to_remove = ['update in advance', 'my motivation to write']
+    replace_words = {
+        '’': "'",
+        '“': '"',
+        '”': '"',
+        '…': '...',
+        '——': '...',
+        'Dionia' : 'Theonia',
+        'Clotocathax': 'Crotokatax',
+        'Clotocathacus': 'Crotokatax',
+        'Clotho' : 'Croto',
+        'Leotizides' : 'Leotychides',
+        'Leonticides' : '',
+        'Dionysia' : 'Theonia',
+        'Sekerian' : 'Seclian',
+        'Cyklian' : 'Seclian',
+    }
+
+
