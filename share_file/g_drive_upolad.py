@@ -2,7 +2,7 @@ import os
 from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
 
-def upload_f_to_g_drive(folder_path, file_name, folder_id):
+def upload_f_to_g_drive(file_name, folder_id, folder_path=None,):
     gauth = GoogleAuth()
     gauth.LoadClientConfigFile('share_file/client_secrets.json')
 
@@ -16,9 +16,10 @@ def upload_f_to_g_drive(folder_path, file_name, folder_id):
         gauth.Authorize()
 
     drive = GoogleDrive(gauth)
-
-    file_path = os.path.join(folder_path, file_name)
-
+    if folder_path:
+        file_path = os.path.join(folder_path, file_name)
+    else:
+        file_path = file_name
 
     gfile = drive.CreateFile({'parents': [{'id': folder_id}], 'title': file_name})
     gfile.SetContentFile(file_path)
@@ -26,5 +27,15 @@ def upload_f_to_g_drive(folder_path, file_name, folder_id):
     print(f"File '{file_name}' uploaded successfully to Google Drive.")
 
 if __name__ == "__main__":
-    folder_id = '1D31g6amVH_yiEuNkECC2sDGJJ81J2LhK'
+    
+    dowloads_f_path = "novels_scrapped_epub"
+    file_name = 'MHAG_894-916_cleaned.epub'
+
+    hre = '1D31g6amVH_yiEuNkECC2sDGJJ81J2LhK'
+    mhag = "1ZusfIpX4bTnIRAxNpIABNhcMy54RFdCX"
+    
+
+    folder_id = mhag
+
+    upload_f_to_g_drive(file_name, folder_id)
     print('running files upload to drive main')
