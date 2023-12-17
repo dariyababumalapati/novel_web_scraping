@@ -2,7 +2,8 @@ import os
 
 from lxml import etree
 
-def convert_html_to_xhtml(input_folder, output_folder, output_folder_temp, s_number, e_number):
+def convert_html_to_xhtml_with_path(input_folder, output_folder, output_folder_temp, s_number, e_number):
+    
     for file in range(s_number, e_number + 1):
         input_file = f'{input_folder}/chapter_{file}.html'
         output_file = f"{output_folder}/chapter_{file}.xhtml"
@@ -17,6 +18,17 @@ def convert_html_to_xhtml(input_folder, output_folder, output_folder_temp, s_num
         
         with open(output_file_temp, 'wb') as f:
             f.write(etree.tostring(tree, pretty_print=True, method='xml'))
+
+def convert_html_to_xhtml(input_file_path, output_file_path, output_file_path_temp):
+
+    parser = etree.HTMLParser()
+    tree = etree.parse(input_file_path, parser)
+
+    with open(output_file_path, 'wb') as f:
+        f.write(etree.tostring(tree, pretty_print=True, method='xml'))
+    
+    with open(output_file_path_temp, 'wb') as f:
+        f.write(etree.tostring(tree, pretty_print=True, method='xml'))
 
 
 def delete_files_in_folder(folder_path):
