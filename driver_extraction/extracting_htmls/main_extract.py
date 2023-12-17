@@ -1,24 +1,18 @@
-from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.common.exceptions import NoSuchElementException
 
-import time
 
 import pyautogui
 
-from config import VariablesCall
+from variab import VariablesCall
 
 from extracting_modules import initiate_driver, click_consent_button, wait_to_translate, copy_useful_html, scroll_to_bottom
 from beautifulsoup_editing_modules import remove_elements,remove_elements_with_certain_texts, replace_words_in_html, replace_dots_with_dash, get_chapter_number, create_html_file
+from html_files_to_xhtml_lxml import convert_html_to_xhtml, delete_files_in_folder
 
 # url = "https://www.69shuba.com/txt/30539/24457324#google_vignette"
-url = "https://www.69shuba.com/txt/10019535/115329981"
+url = "https://www.69shuba.com/txt/10019535/115330165"
 
 driver = initiate_driver(url=url)
 
@@ -33,6 +27,9 @@ cycles = 20
 
 texts_to_remove_list = VariablesCall.texts_to_remove
 replace_words_dict = VariablesCall.replace_words
+            
+output_folder_temp = 'files/xhtml_files_temp/mhag'
+delete_files_in_folder(output_folder_temp)
 
 for _ in range(cycles):
     try:
@@ -51,9 +48,15 @@ for _ in range(cycles):
             soup = replace_dots_with_dash(soup)
             chapter_number = get_chapter_number(soup=soup)
 
-            file_path = f'html_files/mhag/chapter_{chapter_number}.html'
+            file_path = f'files/html_files/mhag/chapter_{chapter_number}.html'
             create_html_file(soup=soup, file_path=file_path)
 
+            
+            input_file_path = file_path
+            output_file_path = f'files/xhtml_files/mhag/chapter_{chapter_number}.html'
+            output_file_path_temp = f'files/xhtml_files_temp/mhag/chapter_{chapter_number}.html'
+
+            convert_html_to_xhtml(input_file_path, output_file_path, output_file_path_temp)
 
         else:
             print("Element does not contain 'Chapter' in its text content")
@@ -64,34 +67,3 @@ for _ in range(cycles):
         pyautogui.hotkey('shift', 'right')
 
 
-
-
-# ele = driver.find_element(By.CLASS_NAME, 'txtnav')
-
-# ele_html = ele.get_attribute('outerHTML')
-# print("HTML content of the 'ele' element:")
-# print(ele_html)
-
-# with open('sample_html.html', 'w', encoding='utf-8') as file:
-#     file.write(ele_html)
-
-# pyautogui.press('esc')
-
-# time.sleep(300)
-
-
-# h1_element = soup.find('h1', class_='hide720')
-
-# # Check if the h1 element exists and contains 'Chapter' in its text
-# if h1_element and 'Chapter' in h1_element.get_text():
-#     try:
-#         # Wait for the element to be visible and then find the element
-#         element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, "//font[contains(text(), 'next chapter')]")))
-
-#         # Click the element
-#         element.click()
-#     except NoSuchElementException:
-#         print("Element not found")
-#     finally:
-#     # Close the browser
-#         driver.quit()
