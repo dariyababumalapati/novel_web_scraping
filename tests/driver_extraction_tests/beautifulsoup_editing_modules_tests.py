@@ -1,6 +1,6 @@
 import unittest
 from bs4 import BeautifulSoup
-from driver_extraction.extracting_htmls.beautifulsoup_editing_modules import replace_words_in_html  # Replace 'your_module_containing_function' with your module name
+from driver_extraction.extracting_htmls import beautifulsoup_editing_modules
 
 class TestReplaceWordsInHTML(unittest.TestCase):
     def test_replace_words_in_html(self):
@@ -27,7 +27,7 @@ class TestReplaceWordsInHTML(unittest.TestCase):
         }
 
         # Perform word replacements
-        modified_soup = replace_words_in_html(soup, replacements_dict)
+        modified_soup = beautifulsoup_editing_modules.replace_words_in_html(soup, replacements_dict)
 
         # Verify replacements in the modified HTML
         expected_output = '''

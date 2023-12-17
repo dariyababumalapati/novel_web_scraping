@@ -12,7 +12,7 @@ from beautifulsoup_editing_modules import remove_elements,remove_elements_with_c
 from html_files_to_xhtml_lxml import convert_html_to_xhtml, delete_files_in_folder
 
 # url = "https://www.69shuba.com/txt/30539/24457324#google_vignette"
-url = "https://www.69shuba.com/txt/10019535/115330165"
+url = "https://www.69shuba.com/txt/10019535/115330344"
 
 driver = initiate_driver(url=url)
 
