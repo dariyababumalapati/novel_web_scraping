@@ -41,13 +41,14 @@ def remove_elements_with_certain_texts(soup, texts_to_remove:list):
     return soup
 
 
-def replace_words_in_html(soup, replace_words:dict):
-
+def replace_words_in_html(soup, replace_words: dict):
     for element in soup.descendants:
         if element.name and element.name != 'script':  # Exclude 'script' elements
-            for word, replacement in replace_words.items():
-                if element.string and word in element.string:
-                    element.string.replace_with(str(element.string).replace(word, replacement))
+            for replacement, to_replace in replace_words.items():
+                if element.string:
+                    for word in to_replace:
+                        if word in element.string:
+                            element.string.replace_with(str(element.string).replace(word, replacement))
 
     # Get the modified HTML soup
     return soup
