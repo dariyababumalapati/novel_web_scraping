@@ -2,6 +2,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+import time
 
 import pyautogui
 
@@ -32,9 +33,11 @@ output_folder_temp = 'files/xhtml_files_temp/mhag'
 delete_files_in_folder(output_folder_temp)
 
 for _ in range(cycles):
+
     try:
     # Wait for the element to be visible and then find the element
         h1_element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, "hide720")))
+        # end_chapter_element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located(By.XPATH, "//*[contains(text()='End of this chapter')]"))
 
     # Check if the element's text content contains "Chapter"
         if "Chapter" in h1_element.text:
@@ -65,5 +68,5 @@ for _ in range(cycles):
         print(f"An error occurred: {e}")
     finally:
         pyautogui.hotkey('shift', 'right')
-
+        time.sleep(1)
 
