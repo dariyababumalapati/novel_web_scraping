@@ -9,7 +9,7 @@ book_information = {
     "image_file_path": "cover.jpg",
     "folder_path": "files/xhtml_files_temp/mhag",
     "epub_file_name": "MHAG_917-936",
-    "destination_directory": "files/novels_scrapped_epub",
+    "destination_directory": "C:/Users/91833/OneDrive/Desktop/books/MHAG",
     }
 
 king_of_gods = EpubMaker()

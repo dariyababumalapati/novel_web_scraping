@@ -32,14 +32,18 @@ def initiate_driver(url):
     return driver
 
 def click_consent_button(driver):
-    button_locator = (By.XPATH, '//button[@class="fc-button fc-cta-consent fc-primary-button"]')
+    try:
 
-    # Wait until the button is clickable
-    wait = WebDriverWait(driver, 10) # wait up to 10 seconds
-    consent_button = wait.until(EC.element_to_be_clickable(button_locator))
+        button_locator = (By.XPATH, '//button[@class="fc-button fc-cta-consent fc-primary-button"]')
 
-    # Click the button
-    consent_button.click()
+        # Wait until the button is clickable
+        wait = WebDriverWait(driver, 10) # wait up to 10 seconds
+        consent_button = wait.until(EC.element_to_be_clickable(button_locator))
+
+        # Click the button
+        consent_button.click()
+    except:
+        pass
 
 def wait_to_translate(driver, url):
     while driver.find_element(By.TAG_NAME, 'html').get_attribute('class') != "translated-ltr":
