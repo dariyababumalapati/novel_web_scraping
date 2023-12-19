@@ -18,18 +18,17 @@ class VariablesCall:
 
     texts_to_remove = ['update in advance', 'my motivation to write']
     replace_words = {
-        '’': "'",
-        '“': '"',
-        '”': '"',
-        '…': '...',
-        '——': '...',
-        'Dionia' : 'Theonia',
-        'Clotocathax': 'Crotokatax',
-        'Clotocathacus': 'Crotokatax',
-        'Clotho' : 'Croto',
-        'Leotizides' : 'Leotychides',
-        'Leonticides' : '',
-        'Dionysia' : 'Theonia',
-        'Sekerian' : 'Seclian',
-        'Cyklian' : 'Seclian',
-    }
+    "'": ['’'],
+    '"': ['“', '”'],
+    '...': ['——'],
+    'Theonia': ['Dionia'],
+    'Crotokatax': ['Clotocathax'],
+    'Croto': ['Clotho'],
+    'Leotychides': ['Leotizides'],
+    'Seclian': ['Cyklian'],
+    'Davos' : ['Davers', 'Daves'],
+    'Thuri' : ['Tuliyi'],
+}
+
+if __name__ == '__main__':
+    print('variab')
