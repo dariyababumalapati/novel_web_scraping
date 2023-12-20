@@ -21,7 +21,7 @@ class VariablesCall:
     "'": ['’'],
     '"': ['“', '”'],
     '...': ['——'],
-    'Theonia': ['Dionia'],
+    'Theonia': ['Dionia', 'Dionysia'],
     'Crotokatax': ['Clotocathax'],
     'Croto': ['Clotho'],
     'Leotychides': ['Leotizides'],

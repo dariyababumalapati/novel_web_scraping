@@ -28,8 +28,8 @@ def upload_f_to_g_drive(file_name, folder_id, folder_path=None,):
 
 if __name__ == "__main__":
     
-    dowloads_f_path = "files/novels_scrapped_epub"
-    file_name = "C:/Users/91833/OneDrive/Desktop/books/MHAG\MHAG_961-965.epub"
+    dowloads_f_path = "C:/Users/91833/OneDrive/Desktop/books/MHAG"
+    file_name = "MHAG_1066-1114.epub"
 
     hre = '1D31g6amVH_yiEuNkECC2sDGJJ81J2LhK'
     mhag = "1ZusfIpX4bTnIRAxNpIABNhcMy54RFdCX"

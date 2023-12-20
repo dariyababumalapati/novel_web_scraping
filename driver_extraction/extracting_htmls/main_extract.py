@@ -13,7 +13,7 @@ from beautifulsoup_editing_modules import remove_elements,remove_elements_with_c
 from html_files_to_xhtml_lxml import convert_html_to_xhtml, delete_files_in_folder
 
 # url = "https://www.69shuba.com/txt/30539/24457324#google_vignette"
-url = "https://www.69shuba.com/txt/10019535/115331312"
+url = "https://www.69shuba.com/txt/10019535/115331336"
 
 driver = initiate_driver(url=url)
 
@@ -24,7 +24,7 @@ pyautogui.press('esc')
 
 driver = wait_to_translate(driver, url=url)
 
-cycles = 5
+cycles = 50
 
 texts_to_remove_list = VariablesCall.texts_to_remove
 replace_words_dict = VariablesCall.replace_words
@@ -32,7 +32,7 @@ replace_words_dict = VariablesCall.replace_words
 output_folder_temp = 'files/xhtml_files_temp/mhag'
 delete_files_in_folder(output_folder_temp)
 
-for _ in range(cycles):
+for c in range(cycles):
 
     try:
     # Wait for the element to be visible and then find the element
