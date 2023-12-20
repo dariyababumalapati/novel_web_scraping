@@ -1,3 +1,5 @@
+import json
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -37,7 +39,7 @@ def click_consent_button(driver):
         button_locator = (By.XPATH, '//button[@class="fc-button fc-cta-consent fc-primary-button"]')
 
         # Wait until the button is clickable
-        wait = WebDriverWait(driver, 10) # wait up to 10 seconds
+        wait = WebDriverWait(driver, 5) # wait up to 10 seconds
         consent_button = wait.until(EC.element_to_be_clickable(button_locator))
 
         # Click the button
@@ -45,11 +47,23 @@ def click_consent_button(driver):
     except:
         pass
 
+
+def click_next_chapter_chinese(driver):
+
+    end_chapter_element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, "//a[text()='下一章']")))
+    end_chapter_element.click()
+    
+def click_next_chapter_english(driver):
+    element = driver.find_element(By.XPATH, "//a[text()='next chapter']")
+    element.click()
+    # end_chapter_element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, "//a[text()='next chapter']")))
+    # # end_chapter_element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, "//a[contains text()='next chapter']")))
+    # end_chapter_element.click()
+
 def wait_to_translate(driver, url):
     while driver.find_element(By.TAG_NAME, 'html').get_attribute('class') != "translated-ltr":
-        pyautogui.hotkey('shift', 'right')
-
-        time.sleep(5)   
+        click_next_chapter_chinese(driver=driver)
+        time.sleep(3)
 
     driver.get(url)
 
@@ -70,7 +84,7 @@ def copy_useful_html(driver):
         return html_content
    
    except Exception as e:
-        print(f"An error occurred: {e}")
+        print(f"An error in copy_useful_html occurred: {e}")
 
 def scroll_to_bottom(driver, pause_time=0.5):
    # Get scroll height
@@ -88,6 +102,24 @@ def scroll_to_bottom(driver, pause_time=0.5):
        if new_height == last_height:
            break
        last_height = new_height
+
+       time.sleep(pause_time)
+
+def store_the_latest_chapter_url(driver):
+    current_url = driver.current_url
+
+    url_dict = {'latest_url': current_url}
+
+    with open('url.json', 'w', encoding='utf-8') as f:
+        json.dump(url_dict, f)
+
+def call_the_latest_chapter_url():
+        with open('url.json', 'r', encoding='utf-8') as f:
+            data = json.load(f)
+
+            url = data['latest_url']
+
+            return url
 
 
 if __name__ == "__main__":
