@@ -2,10 +2,16 @@ from bs4 import BeautifulSoup
 
 import re
 
-def remove_elements(html_content):
+def parse_the_html(html_content):
 
     soup = BeautifulSoup(html_content, 'html.parser')
 
+    return soup
+
+def remove_elements(html_content):
+
+    soup = parse_the_html(html_content=html_content)
+    
     elements_to_remove = soup.find_all(lambda tag: tag.name == 'h1' and 'hide720' in tag.get('class', []) or 
                                                 tag.name == 'div' and 'hide720' in tag.get('class', []) or
                                                 tag.name == 'div' and "bottom-ad" in tag.get('class', []) or
@@ -74,7 +80,6 @@ def get_chapter_number(soup):
     else:
         print('chapter number is None')
         return None        
-
 
 
 def create_html_file(soup, file_path):

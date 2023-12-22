@@ -1,49 +1,38 @@
-from bs4 import BeautifulSoup
+import os
+import re
 
-# Sample HTML content
-html_content = '''
-<html>
-<head><title>Sample</title></head>
-<body>
-<div>Text</div>
-<div>.............</div>
-<div>......</div>
-<div>Clotho</div>
-<div>Dionia</div>
-<div>......</div>
-<div>Regular text</div>
-<div>....Some text....</div>
-</body>
-</html>
-'''
+def list_files_in_folder(folder_path):
+    files_list = []
+    for root, dirs, files in os.walk(folder_path):
+        for file in files:
+            files_list.append(file)
+    return files_list
 
-def replace_words_in_html(html_content, replace_words):
-    soup = BeautifulSoup(html_content, 'html.parser')
+# Replace 'folder_path' with the path to your folder
 
-    for element in soup.descendants:
-        if element.name and element.name != 'script':  # Exclude 'script' elements
-            for word, replacement in replace_words.items():
-                if element.string and word in element.string:
-                    element.string.replace_with(str(element.string).replace(word, replacement))
+def get_range(files_list):
+    chapters_range = []
 
-    print(soup)
+    first_number = re.findall(r'\d+', files_list[0])[0]
+    chapters_range.append(first_number)
 
-replace_words = {
-    '’': "'",
-    '“': '"',
-    '”': '"',
-    '…': '...',
-    '——': '...',
-    'Dionia' : 'Theonia',
-    'Clotocathax': 'Crotokatax',
-    'Clotocathacus': 'Crotokatax',
-    'Clotho' : 'Croto',
-    'Leotizides' : 'Leotychides',
-    'Leonticides' : '',
-    'Dionysia' : 'Theonia',
-    'Sekerian' : 'Seclian',
-    'Cyklian' : 'Seclian',
+    last_number = re.findall(r'\d+', files_list[-1])[0]
+    chapters_range.append(last_number)
 
-}
+    return chapters_range
 
-replace_words_in_html(html_content, replace_words)
+def missing_chapter_numbers(files_list, chapters_range:list):
+
+    expected_range = range(int(chapters_range[0]), int(chapters_range[-1]) + 1)
+    missing_numbers = [num for num in expected_range if f'chapter_{num}.html' not in files_list]
+
+    print("Missing numbers:", missing_numbers)
+
+# print(files_list)
+
+folder_path = 'files/xhtml_files_temp/mhag'
+files_list = list_files_in_folder(folder_path)
+
+ch_range = get_range(files_list)
+
+missing_chapter_numbers(files_list, ch_range)
