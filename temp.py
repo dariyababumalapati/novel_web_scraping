@@ -1,15 +1,17 @@
-import pyperclip
+import json
 
-p = pyperclip.paste()
+li = ['1', '2']
 
-lines_li = p.split('\n')
+def store_the_numbers(li:list): 
 
-del lines_li[:4]
-# print(p)
+    first_number = li[0]
 
-print(lines_li[0])
+    second_number = li[-1]
 
-# file_path = 'text_files/paste.txt'
+    url_dict = {first_number: first_number, second_number: second_number}
 
-# with open(file_path, 'w', encoding='utf-8') as file:
-#     file.write()
+    with open('numbers.json', 'a', encoding='utf-8') as f:
+        json.dump(url_dict, f, indent=4)
+
+
+store_the_numbers(li)

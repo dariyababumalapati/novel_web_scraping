@@ -1,6 +1,11 @@
+import json
+
 from epub_maker import EpubMaker
 
+with open('inproject_data.json', 'r', encoding='utf-8') as f:
+    data = json.load(f)
 
+chapters_range = data['chapters_range']
 
 book_information = {
     "book_title": "MHAG",
@@ -8,7 +13,7 @@ book_information = {
     "language": "en",
     "image_file_path": "cover.jpg",
     "folder_path": "files/xhtml_files_temp/mhag",
-    "epub_file_name": "MHAG_1066-1114",
+    "epub_file_name": f"MHAG_{chapters_range}",
     "destination_directory": "C:/Users/91833/OneDrive/Desktop/books/MHAG",
     }
 

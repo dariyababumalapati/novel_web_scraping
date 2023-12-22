@@ -8,8 +8,6 @@ from selenium.webdriver.chrome.options import Options
 
 import time
 
-import pyautogui
-
 
 def initiate_driver(url):
     chrome_options = webdriver.ChromeOptions()
@@ -20,14 +18,6 @@ def initiate_driver(url):
     chrome_options.add_experimental_option("prefs", prefs)
     chrome_options.add_argument("user-agent=YourCustomUserAgent")
     driver = webdriver.Chrome(options=chrome_options)
-
-
-    driver.get("https://www.google.com/")
-
-
-    # # Navigate to a specific URL in the new tab
-
-    driver.switch_to.new_window('tab')
 
     driver.get(url)
 
@@ -54,10 +44,15 @@ def click_next_chapter_chinese(driver):
     end_chapter_element.click()
     
 def click_next_chapter_english(driver):
-    element = driver.find_element(By.XPATH, "//a[text()='next chapter']")
-    element.click()
+    # next_chapter_link = WebDriverWait(driver, 10).until(
+    # EC.presence_of_element_located((By.XPATH, "//a[@href and contains(text(), 'next chapter')]"))
+    # )
+
+# Click the "Next Chapter" link
+
     # end_chapter_element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, "//a[text()='next chapter']")))
-    # # end_chapter_element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, "//a[contains text()='next chapter']")))
+    end_chapter_element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, "//a[text()='next chapter']")))
+    print(end_chapter_element)
     # end_chapter_element.click()
 
 def wait_to_translate(driver, url):
@@ -105,21 +100,59 @@ def scroll_to_bottom(driver, pause_time=0.5):
 
        time.sleep(pause_time)
 
+
 def store_the_latest_chapter_url(driver):
     current_url = driver.current_url
 
     url_dict = {'latest_url': current_url}
 
-    with open('url.json', 'w', encoding='utf-8') as f:
+    with open('inproject_data.json', 'w', encoding='utf-8') as f:
         json.dump(url_dict, f)
 
 def call_the_latest_chapter_url():
-        with open('url.json', 'r', encoding='utf-8') as f:
+        with open('inproject_data.json', 'r', encoding='utf-8') as f:
             data = json.load(f)
 
             url = data['latest_url']
 
             return url
+
+def store_the_chapters_range(chapters_list:list):
+
+    with open('inproject_data.json', 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    chapters_range = f'{chapters_list[0]} - {chapters_list[-1]}'
+    chapters_range_dict = {'chapters_range': chapters_range}
+
+    data.update(chapters_range_dict)
+
+    with open('inproject_data.json', 'w', encoding='utf-8') as f:
+        json.dump(data, f)
+
+def call_the_chapters_range():
+    with open('inproject_data.json', 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+        chapters_range = data['chapters_range']
+
+        return chapters_range
+
+def missing_chapter(chapters_list:list):
+    if chapters_list:
+        missing_chapter = chapters_list[-1] + 1
+        print(missing_chapter)
+    
+    else:
+        print('first loading chapter is missing.')
+
+def missing_chapter_numbers(numbers_list:list):
+
+    expected_range = range(numbers_list[0], numbers_list[-1] + 1)
+    missing_numbers = [num for num in expected_range if num not in numbers_list]
+
+    print("Missing numbers:", missing_numbers)
+
 
 
 if __name__ == "__main__":
