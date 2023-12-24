@@ -90,4 +90,4 @@ for c in range(cycles):
 
 store_the_latest_chapter_url(driver=driver)
 store_the_chapters_range(chapters_list=chapters_list)
-missing_chapter_numbers(chapters_list)
+# missing_chapter_numbers(chapters_list)
