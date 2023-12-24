@@ -1,24 +1,28 @@
+import os 
 import openai
+from openai import OpenAI
 
-# Set your OpenAI API key
-api_key = 'YOUR_API_KEY'
-openai.api_key = api_key
 
-# Text to be converted
-input_text = """
-[Insert your text here]
-"""
+client = OpenAI(
+    # This is the default and can be omitted
+    api_key=os.environ.get("OPENAI_API_KEY"),
+)
 
-# Call the completion endpoint of the GPT-3.5 API
-response = openai.Completion.create(
-  engine="text-davinci-003",
-  prompt=input_text,
-  max_tokens=1000,  # Adjust as needed for your text length
-  temperature=0.5,  # Controls randomness of generation
-  n=1,  # Number of completions to generate
-  stop="\n\n"  # Stop generation at a suitable point
+
+with open('ch_text.txt', 'r', encoding='utf-8') as f:
+   ch_text = f.read()
+
+
+
+chat_completion = client.chat.completions.create(
+    messages=[f"Translate the following Chinese text to English, {ch_text}"],
+    model="gpt-3.5-turbo",
 )
 
 # Output the generated text
-generated_text = response.choices[0].text.strip()
+generated_text = chat_completion.choices[0].message['content'].strip()
+
+with open('en_text.txt', 'w', encoding='utf-8') as f:
+   f.write(generated_text)
+
 print(generated_text)
