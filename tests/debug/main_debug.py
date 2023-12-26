@@ -6,7 +6,7 @@ from text_editing.useful_text_operations import remove_lines_with_prefixes, repl
 
 from text_editing.line_editing import join_broken_lines
 
-from scrap.config import VariablesCall
+from config import VariablesCall
 
 num_pages = 25
   # Change this to the number of pages you want to scrape
