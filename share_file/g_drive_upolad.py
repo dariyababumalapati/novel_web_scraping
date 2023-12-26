@@ -19,10 +19,12 @@ def upload_f_to_g_drive(file_name, folder_id, folder_path=None,):
     drive = GoogleDrive(gauth)
     if folder_path:
         file_path = os.path.join(folder_path, file_name)
+        file_title = file_name
     else:
         file_path = file_name
+        file_title = os.path.basename(file_path)
 
-    gfile = drive.CreateFile({'parents': [{'id': folder_id}], 'title': file_name})
+    gfile = drive.CreateFile({'parents': [{'id': folder_id}], 'title': file_title})
     gfile.SetContentFile(file_path)
     gfile.Upload()
     print(f"File '{file_name}' uploaded successfully to Google Drive.")
@@ -35,13 +37,15 @@ if __name__ == "__main__":
     chapters_range = data['chapters_range']
     
     dowloads_f_path = "C:/Users/91833/OneDrive/Desktop/books/MHAG"
-    file_name = f"MHAG_{chapters_range}.epub"
+    file_name = f"G:/Books/Novels/King Of Mercenaries c1-83.epub"
 
+    novels_folder = '1vb0JqLPHFNj9F4G7NRbgxI_Sips5GBVx'
     hre = '1D31g6amVH_yiEuNkECC2sDGJJ81J2LhK'
     mhag = "1ZusfIpX4bTnIRAxNpIABNhcMy54RFdCX"
+    lich = os.environ.get('LICH_NOVEL_FOLDER')
     
 
-    folder_id = mhag
+    folder_id = novels_folder
 
-    upload_f_to_g_drive(file_name, folder_id, folder_path=dowloads_f_path)
+    upload_f_to_g_drive(file_name, folder_id)
     print('running files upload to drive main')

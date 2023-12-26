@@ -10,7 +10,7 @@ from text_editing.useful_text_operations import remove_lines_with_prefixes, repl
 
 from text_editing.line_editing import join_broken_lines
 
-from config import VariablesCall
+from scrap.config import VariablesCall
 
 from auto_conv.txt_to_epub import txt_to_epub
 
