@@ -22,7 +22,7 @@ def create_connection(database_name: str):
 if __name__ == '__main__':
     print('db_initiator.py is running in main.')
 
-    db_connection = create_connection()
+    db_connection = create_connection('novel_web_scraping')
 
     cursor = db_connection.cursor()
 
