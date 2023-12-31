@@ -69,7 +69,7 @@ def copy_useful_html(driver):
 
    try:
        # Wait for the element to be visible and then find the element
-        element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, 'txtnav')))
+        element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, 'w_main')))
 
         time.sleep(3)
        # Get the HTML content of the element

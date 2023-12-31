@@ -1,6 +1,6 @@
-from kgm.database_module_kgm import get_records, create_connection
+from database_module import get_records, create_connection
 
-from kgm.beautifulsoup_module_kgm import create_html_file
+from beautifulsoup_module_kgm import create_html_file
 
 connection = create_connection('kgm')
 

@@ -2,7 +2,7 @@ import os
 import logging
 import mysql.connector
 
-from beautifulsoup_module import create_html_file
+from beautifulsoup_module_kgm import create_html_file
 
 def create_connection(database_name: str):
     connection  = mysql.connector.connect(
@@ -20,8 +20,9 @@ def create_connection(database_name: str):
     else:
         print('Connection failed.')
 
+connection = create_connection('kgm')
 
-def get_records(connection, sql_query):
+def get_records(sql_query):
     """Get the URL from the table in the database from the 'url' column.
 
     Args:
@@ -50,12 +51,12 @@ def get_records(connection, sql_query):
 
 # Create a Table with required columns.
 
-def get_records_by_id(connection, html_content, id):
+def set_column_by_id(column, html_content, id):
 
     cursor = connection.cursor()
 
     # Update or insert data into kgm_html based on the fetched id
-    update_query = f"UPDATE kgm_html SET raw_html = %s WHERE id = %s;"
+    update_query = f"UPDATE kgm_html SET {column} = %s WHERE id = %s;"
     cursor.execute(update_query, (html_content, id))
 
     # Commit changes and close connection
@@ -63,7 +64,7 @@ def get_records_by_id(connection, html_content, id):
 
 import logging
 
-def replace_words(connection, table, column, old_word, new_word):
+def replace_words(table, column, old_word, new_word):
     """
     Replace occurrences of a word in a specific column of a table in the database.
 
@@ -96,7 +97,7 @@ def replace_words(connection, table, column, old_word, new_word):
         logging.error(f"Error replacing words: {e}")
 
 
-def store_cleaned_html(connection, html_content_cleaned, id):
+def store_cleaned_html(html_content_cleaned, id):
     """
     Store HTML_cleaned content into the database.
 
@@ -118,7 +119,7 @@ def store_cleaned_html(connection, html_content_cleaned, id):
         print(f"Error storing HTML_cleaned content: {e}")
 
 
-def store_xhtml(connection, xhtml_content, id):
+def store_xhtml(xhtml_content, id):
     """
     Store XHTML content into the database.
 
@@ -140,7 +141,7 @@ def store_xhtml(connection, xhtml_content, id):
     except Exception as e:
         print(f"Error storing XHTML content: {e}")
 
-def check_raw_html(connection, id):
+def check_raw_html(id):
 
     query = f'SELECT raw_html FROM kgm_html WHERE id={id}'
     html = get_records(connection, query)[0][0]
@@ -148,7 +149,12 @@ def check_raw_html(connection, id):
 
     connection.commit()
 
+def get_cn_records():
+    query = "SELECT * FROM kgm_html WHERE cleaned_html LIKE '%。%'"
+    rows = get_records(connection, query)
+    cn_li = [row[0] for row in rows]
 
+    return cn_li
 
 if __name__ == '__main__':
     print('db_initiator.py is running in main.')
