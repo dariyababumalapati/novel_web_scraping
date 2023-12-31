@@ -2,7 +2,7 @@ import os
 
 from lxml import etree
 
-def convert_html_to_xhtml_with_path(input_folder, output_folder, output_folder_temp, s_number, e_number):
+def convert_html_to_xhtml_with_folder_path(input_folder, output_folder, output_folder_temp, s_number, e_number):
     
     for file in range(s_number, e_number + 1):
         input_file = f'{input_folder}/chapter_{file}.html'
@@ -19,7 +19,7 @@ def convert_html_to_xhtml_with_path(input_folder, output_folder, output_folder_t
         with open(output_file_temp, 'wb') as f:
             f.write(etree.tostring(tree, pretty_print=True, method='xml'))
 
-def convert_html_to_xhtml(input_file_path, output_file_path, output_file_path_temp):
+def convert_html_to_xhtml_with_filepath(input_file_path, output_file_path, output_file_path_temp):
 
     parser = etree.HTMLParser()
     tree = etree.parse(input_file_path, parser)
@@ -29,6 +29,37 @@ def convert_html_to_xhtml(input_file_path, output_file_path, output_file_path_te
     
     with open(output_file_path_temp, 'wb') as f:
         f.write(etree.tostring(tree, pretty_print=True, method='xml'))
+
+
+
+def convert_html_to_xhtml(html_content:str):
+    """
+    Convert HTML content to XHTML format.
+
+    Args:
+    - html_content (str): HTML content to be converted to XHTML.
+
+    Returns:
+    - str or None: Returns the converted XHTML content if successful, otherwise returns None.
+    """
+    try:
+        # Create an HTML parser
+        parser = etree.HTMLParser()
+
+        # Parse the HTML content into an XML tree
+        tree = etree.fromstring(html_content, parser)
+        
+        # Convert the XML tree to XHTML content
+        output_content = etree.tostring(tree, pretty_print=True, method='xml', encoding='unicode')
+        return output_content
+
+    except etree.Error as e:
+        print(f"Error occurred while converting HTML to XHTML: {e}")
+        return None
+    except Exception as ex:
+        print(f"An unexpected error occurred: {ex}")
+        return None
+
 
 
 def delete_files_in_folder(folder_path):

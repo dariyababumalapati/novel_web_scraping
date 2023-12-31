@@ -36,8 +36,8 @@ if __name__ == "__main__":
 
     chapters_range = data['chapters_range']
     
-    dowloads_f_path = "C:/Users/91833/OneDrive/Desktop/books/MHAG"
-    file_name = f"G:/Books/Novels/King Of Mercenaries c1-83.epub"
+    dowloads_f_path = "C:/Users/91833/OneDrive/Desktop/books"
+    file_name = f"C:/Users/91833/OneDrive/Desktop/books/king_of_mercenaries.epub"
 
     novels_folder = '1vb0JqLPHFNj9F4G7NRbgxI_Sips5GBVx'
     hre = '1D31g6amVH_yiEuNkECC2sDGJJ81J2LhK'

@@ -90,7 +90,8 @@ class EpubMaker:
         self.create_epub_file(f'{book_info["destination_directory"]}/{book_info["epub_file_name"]}')
 
 
-
+if __name__ == '__main__':
+    print('epub_maker.py running in main.')
 
 # book_info = {
 #     "book_title": "KOG",
