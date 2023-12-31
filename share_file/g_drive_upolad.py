@@ -59,9 +59,18 @@ if __name__ == "__main__":
     novel = 'fcse'
     
     dowloads_f_path = "C:/Users/91833/OneDrive/Desktop/books"
+<<<<<<< HEAD
     file_name = fr"C:\Users\91833\Downloads\{novel}_{stop_number}.epub"
     generic_file_name = r"C:/Users/91833/OneDrive/Desktop/books/ree.epub"
 >>>>>>> dca2e1185edd59f6ea541d656791141560c15841
+=======
+    file_name = f"C:/Users/91833/OneDrive/Desktop/books/king_of_mercenaries.epub"
+
+    novels_folder = '1vb0JqLPHFNj9F4G7NRbgxI_Sips5GBVx'
+    hre = '1D31g6amVH_yiEuNkECC2sDGJJ81J2LhK'
+    mhag = "1ZusfIpX4bTnIRAxNpIABNhcMy54RFdCX"
+    lich = os.environ.get('LICH_NOVEL_FOLDER')
+>>>>>>> 0f6c9b9 (extraction complete)
     
     drive_folders ={
         'novels': '1vb0JqLPHFNj9F4G7NRbgxI_Sips5GBVx',
