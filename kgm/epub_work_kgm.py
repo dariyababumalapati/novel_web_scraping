@@ -1,12 +1,11 @@
-from database_module import create_connection, get_records
+from database_module_kgm import get_records
 
 from epub_maker_kgm import EpubMaker
 
-connection = create_connection('kgm')
 
 query = 'SELECT * FROM kgm_html;'
 
-rows = get_records(connection, query)
+rows = get_records(query)
 
 # xhtml_li = [xhtml[0] for xhtml in xhtml_content]
 

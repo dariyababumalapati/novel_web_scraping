@@ -13,8 +13,6 @@ def delete_file(file_path):
         print(f"Error deleting the file: {e}")
 
 # Provide the file path to delete
-file_path = 'path/to/your/file.txt'
-delete_file(file_path)
 
 if __name__ == '__main__':
     print('helper_functions.py running in main.')
