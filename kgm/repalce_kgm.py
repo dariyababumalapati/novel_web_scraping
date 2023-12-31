@@ -3,7 +3,7 @@
 # WHERE my_column LIKE '%old_word%';
 
 # from helper_functions import create_file 
-from beautifulsoup_module import create_html_file
+from beautifulsoup_module_kgm import create_html_file
 from database_module import create_connection, get_records, replace_words
 
 connection = create_connection('kgm')

@@ -8,7 +8,7 @@ from selenium.webdriver.chrome.options import Options
 
 import time
 
-from database_module import get_raw_html
+from database_module_kgm import set_raw_html_by_id
 
 def initiate_driver(url: str):
     """Initialize a Chrome WebDriver and navigate to the provided URL.
