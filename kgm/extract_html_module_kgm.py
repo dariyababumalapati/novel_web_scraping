@@ -6,8 +6,7 @@ from selenium.webdriver.chrome.options import Options
 
 import time
 
-from database_module_kgm import set_column_by_id
-
+from database_module_kgm import set_raw_html_by_id
 
 def initiate_driver(url: str):
     """Initialize a Chrome WebDriver and navigate to the provided URL.
@@ -65,10 +64,7 @@ def wait_to_translate(driver):
         WebDriver: The WebDriver instance after the translation is completed.
     """
     try:
-        while (
-            driver.find_element(By.TAG_NAME, "html").get_attribute("class")
-            != "translated-ltr"
-        ):
+        while driver.find_element(By.TAG_NAME, 'html').get_attribute('class') != "translated-ltr":
             driver.refresh()
             time.sleep(3)
 
@@ -120,11 +116,10 @@ def scroll_to_bottom(driver, pause_time=0.5):
 
 
 def copy_useful_html(driver):
-    try:
-        # Wait for the element to be visible and then find the element
-        element = WebDriverWait(driver, 10).until(
-            EC.visibility_of_element_located((By.CLASS_NAME, "w_main"))
-        )
+
+   try:
+       # Wait for the element to be visible and then find the element
+        element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.ID, '')))
 
         time.sleep(3)
         # Get the HTML content of the element
@@ -136,9 +131,7 @@ def copy_useful_html(driver):
     except Exception as e:
         print(f"An error in copy_useful_html occurred: {e}")
 
-
-# confine to the database
-
+# contuine to the database 
 
 if __name__ == "__main__":
 <<<<<<< HEAD

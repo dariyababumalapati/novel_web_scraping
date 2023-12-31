@@ -219,18 +219,5 @@ def convert_html_to_xhtml(html_content: str):
         print(f"An unexpected error occurred: {ex}")
         return None
 
-
-def check_chinese_text(html_content: str, realy: bool):
-    soup = BeautifulSoup(html_content, "html.parser")
-    content_box_element = soup.find("div", class_="uu_cont", id="contentbox")
-
-    if not content_box_element.find(text="。"):
-        realy = False
-    else:
-        realy = True
-
-    return realy
-
-
-if __name__ == "__main__":
-    print("html_editing_modules.py running in main")
+if __name__ == '__main__':
+     print('html_editing_modules.py running in main')

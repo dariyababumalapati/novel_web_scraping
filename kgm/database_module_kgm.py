@@ -21,10 +21,7 @@ def create_connection(database_name: str):
     else:
         print("connection failed.")
 
-
-# creating a connection object to be used throughout the functions in the module.
-connection = create_connection("kgm")
-
+connection = create_connection('kgm')
 
 def get_records(sql_query):
     """get the url from the table in the database from the 'url' column.
@@ -53,21 +50,18 @@ def get_records(sql_query):
         return none
 
 
-def set_column_by_id(column, html_content, chapter_id):
-    try:
-        cursor = connection.cursor()
+def set_column_by_id(column, html_content, id):
 
-        # update or insert data into kgm_html based on the fetched id
-        update_query = f"update kgm_html set {column} = %s where id = %s;"
-        cursor.execute(update_query, (html_content, chapter_id))
+    cursor = connection.cursor()
 
-        # commit changes and close connection
-        cursor.close()
+    # Update or insert data into kgm_html based on the fetched id
+    update_query = f"UPDATE kgm_html SET {column} = %s WHERE id = %s;"
+    cursor.execute(update_query, (html_content, id))
 
-    except mysql.connector.error as error:
-        print("error setting_data: {}".format(error))
-        return none
+    # Commit changes and close connection
+    cursor.close()
 
+import logging
 
 def replace_words(column, old_word, new_word):
     """
@@ -88,45 +82,81 @@ def replace_words(column, old_word, new_word):
 
         # use parameterized queries to prevent sql injection
         update_query = f"""
-        update kgm_html
-        set {column} = replace({column}, %s, %s)
-        where {column} like concat('%', %s, '%');
+        UPDATE {table}
+        SET {column} = REPLACE({column}, %s, %s)
+        WHERE {column} LIKE CONCAT('%', %s, '%');
         """
 
         cursor.execute(update_query, (old_word, new_word, old_word))
         connection.commit()
         cursor.close()
-        logging.info(f"words replaced in {column} column of kgm_html table.")
+        logging.info(f"Words replaced in {column} column of {table} table.")
+    
+    except Exception as e:
+        logging.error(f"Error replacing words: {e}")
 
-    except exception as e:
-        logging.error(f"error replacing words: {e}")
+
+def store_cleaned_html(html_content_cleaned, id):
+    """
+    Store HTML_cleaned content into the database.
+
+    Args:
+    - connection: Database connection object.
+    - html_content_cleaned (str): HTML content to be stored.
+    - id (int): id
+    Returns:
+    - None
+    """
+    try:
+        cursor = connection.cursor()
+        update_query = f"UPDATE kgm_html SET cleaned_html = %s WHERE id = %s;"
+        cursor.execute(update_query, (html_content_cleaned, id))
+        connection.commit()
+        cursor.close()
+        print("HTML_cleaned content stored successfully.")
+    except Exception as e:
+        print(f"Error storing HTML_cleaned content: {e}")
 
 
-def check_raw_html(chapter_id):
-    query = f"select raw_html from kgm_html where id={chapter_id}"
+def store_xhtml(xhtml_content, id):
+    """
+    Store XHTML content into the database.
+
+    Args:
+    - connection: Database connection object.
+    - xhtml_content (str): XHTML content to be stored.
+    - id (int): id 
+
+    Returns:
+    - None
+    """
+    try:
+        cursor = connection.cursor()
+        update_query = f"UPDATE kgm_html SET xhtml = %s WHERE id = %s;"
+        cursor.execute(update_query, (xhtml_content, id))
+        connection.commit()
+        cursor.close()
+        print("XHTML content stored successfully.")
+    except Exception as e:
+        print(f"Error storing XHTML content: {e}")
+
+def check_raw_html(id):
+
+    query = f'SELECT raw_html FROM kgm_html WHERE id={id}'
     html = get_records(connection, query)[0][0]
     create_html_file(html, "rw_html.html")
 
     connection.commit()
 
-
-def get_cn_records_id():
-    query = "select * from kgm_html where cleaned_html like '%。%'"
-    rows = get_records(query)
+def get_cn_records():
+    query = "SELECT * FROM kgm_html WHERE cleaned_html LIKE '%。%'"
+    rows = get_records(connection, query)
     cn_li = [row[0] for row in rows]
 
     return cn_li
 
-
-def get_cn_records():
-    query = "select * from kgm_html where cleaned_html like '%。%'"
-    rows = get_records(query)
-
-    return rows
-
-
-if __name__ == "__main__":
-    print("db_initiator.py is running in main.")
+if __name__ == '__main__':
+    print('db_initiator.py is running in main.')
 
     db_connection = create_connection("novel_web_scraping")
 

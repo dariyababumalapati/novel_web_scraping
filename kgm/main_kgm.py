@@ -1,7 +1,7 @@
-from database_module_kgm import create_connection, get_records, set_column_by_id
+from database_module import create_connection, get_records, store_cleaned_html, store_xhtml
 
-from beautifulsoup_module_kgm import create_html_file, merge_elements, remove_elements_with_certain_texts, replace_words_in_html
-from beautifulsoup_module_kgm import *
+# from beautifulsoup_module import create_html_file, merge_elements, remove_elements_with_certain_texts, replace_words_in_html
+from beautifulsoup_module import *
 
 from helper_functions_kgm import delete_file
 
