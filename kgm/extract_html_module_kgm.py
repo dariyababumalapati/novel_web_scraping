@@ -1,5 +1,3 @@
-import json
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -8,7 +6,7 @@ from selenium.webdriver.chrome.options import Options
 
 import time
 
-from database_module_kgm import set_raw_html_by_id
+from database_module_kgm import set_column_by_id
 
 def initiate_driver(url: str):
     """Initialize a Chrome WebDriver and navigate to the provided URL.
@@ -64,6 +62,7 @@ def wait_to_translate(driver):
     """
     try:
         while driver.find_element(By.TAG_NAME, 'html').get_attribute('class') != "translated-ltr":
+
             driver.refresh()
             time.sleep(3)
 
@@ -92,7 +91,7 @@ def extraction_and_storing(driver, records: list, connection):
             html_content = content_element.get_attribute('outerHTML')
             # print(html_content)
 
-            get_raw_html(connection, html_content, id)
+            set_column_by_id(connection, html_content, id)
 
         except:
                 print(f'missing {record[0]}')
@@ -101,7 +100,7 @@ def copy_useful_html(driver):
 
    try:
        # Wait for the element to be visible and then find the element
-        element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.ID, '')))
+        element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, 'w_main')))
 
         time.sleep(3)
        # Get the HTML content of the element
@@ -113,7 +112,7 @@ def copy_useful_html(driver):
    except Exception as e:
         print(f"An error in copy_useful_html occurred: {e}")
 
-# contuine to the database 
+# confine to the database 
 
 if __name__ == '__main__':
     print('extract_html_module.py running in main.')

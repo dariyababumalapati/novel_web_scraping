@@ -1,4 +1,4 @@
-from database_module_kgm import create_connection, get_records, store_cleaned_html, store_xhtml
+from database_module_kgm import create_connection, get_records, get_cn_records, set_column_by_id
 
 # from beautifulsoup_module import create_html_file, merge_elements, remove_elements_with_certain_texts, replace_words_in_html
 from beautifulsoup_module_kgm import *
@@ -8,7 +8,7 @@ from helper_functions_kgm import delete_file
 connection = create_connection('kgm')
 
 query_html = 'SELECT * FROM kgm_html;'
-html_rows = get_records(query_html)
+html_rows = get_cn_records()
 
 query_remove = 'SELECT remove_words FROM remove_text;'
 rm_rows = get_records(query_remove)
@@ -20,8 +20,9 @@ rp_dict = {rp[1]: rp[2] for rp in rp_rows}
 
 missing_chapters = []
 
+
 for row in html_rows:
-    id = row[0]
+    chapter_id = row[0]
     html_content = row[2]
 
     try:
@@ -31,11 +32,11 @@ for row in html_rows:
 
         html_cleaned = replace_words_in_html(soup, rp_dict)
 
-        store_cleaned_html(connection, html_cleaned, id)
+        set_column_by_id('cleaned_html', html_cleaned, chapter_id)
 
-        xhtml = convert_html_to_xhtml_kgm(html_cleaned)
+        xhtml_content = convert_html_to_xhtml_kgm(html_cleaned)
         
-        store_xhtml(connection, xhtml, id)
+        set_column_by_id('xhtml', xhtml_content, chapter_id)
 
     except:
         print(row[0])
