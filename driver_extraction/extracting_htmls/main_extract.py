@@ -24,7 +24,7 @@ pyautogui.press('esc')
 
 driver = wait_to_translate(driver, url=url)
 
-cycles = 45
+cycles = 2
 
 texts_to_remove_list = VariablesCall.texts_to_remove
 replace_words_dict = VariablesCall.replace_words
@@ -77,7 +77,6 @@ for c in range(cycles):
         else:
             print("Element does not contain 'Chapter' in its text content")
             
-            missing_chapters(chapters_list=chapters_list)
 
             incomplete_load_flag = False
 
