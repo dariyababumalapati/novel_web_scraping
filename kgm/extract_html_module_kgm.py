@@ -96,6 +96,20 @@ def extraction_and_storing(driver, records: list, connection):
         except:
                 print(f'missing {record[0]}')
 
+def scroll_to_bottom(driver, pause_time=0.5):
+    # Get scroll height
+    total_height = driver.execute_script("return document.body.scrollHeight")
+    scroll_stroke = total_height/10
+
+    relay = 0
+
+    while relay <= 10:
+        relay += 1        
+
+        driver.execute_script(f"window.scrollBy(0, {scroll_stroke});")
+
+        time.sleep(pause_time)
+
 def copy_useful_html(driver):
 
    try:
@@ -113,6 +127,7 @@ def copy_useful_html(driver):
         print(f"An error in copy_useful_html occurred: {e}")
 
 # confine to the database 
+
 
 if __name__ == '__main__':
     print('extract_html_module.py running in main.')

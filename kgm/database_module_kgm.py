@@ -41,12 +41,12 @@ def get_records(sql_query):
         cursor.execute(sql_query)
 
         # Fetching all the URLs returned by the query
-        kgm_rows = cursor.fetchall()
+        records = cursor.fetchall()
 
         # Closing the cursor (optional, as the connection will be closed separately)
         cursor.close()
 
-        return kgm_rows
+        return records
 
     except mysql.connector.Error as error:
         print("Error fetching URLs: {}".format(error))
