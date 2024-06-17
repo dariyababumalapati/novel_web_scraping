@@ -12,9 +12,9 @@ from variab import VariablesCall
 
 from database_actions_module.db_initiator import create_connection
 
-from extracting_modules import initiate_driver, wait_to_translate, scroll_to_bottom, copy_useful_html
+from other.extracting_modules import initiate_driver, wait_to_translate, scroll_to_bottom, copy_useful_html
 # from driverextracting_modules import initiate_driver, click_consent_button, wait_to_translate, copy_useful_html, call_the_latest_chapter_url, store_the_chapters_range, store_the_latest_chapter_url, missing_chapter_numbers
-from beautifulsoup_editing_modules import replace_words_in_html, replace_dots_with_dash, create_html_file
+from other.beautifulsoup_editing_modules import replace_words_in_html, replace_dots_with_dash, create_html_file
 from driver_extraction.extracting_htmls.html_files_to_xhtml_lxml import convert_html_to_xhtml, delete_files_in_folder
 
 

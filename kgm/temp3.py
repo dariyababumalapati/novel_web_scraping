@@ -1,7 +1,7 @@
 from database_module import create_connection, check_raw_html, get_records
 
 
-connection = create_connection('kgm')
+connection = create_connection("kgm")
 
 query = "SELECT * FROM kgm_html WHERE cleaned_html LIKE '%%'"
 
