@@ -1,0 +1,49 @@
+" Enable line numbers
+set nu
+
+" Key mappings for buffer navigation
+map <c-h> :bprev<CR>
+map <c-l> :bnext<CR>
+map <F5> :source ~/.vimrc<CR>
+"test
+" Set colorscheme
+colorscheme slate
+" Enable auto-indentation
+set autoindent
+set smartindent
+set tabstop=4
+set shiftwidth=4
+set expandtab
+
+" Highlight matching parantheses
+set showmatch
+
+" Enable line wrapping
+set wrap
+
+" Dispaly line and column numbers in the status line
+set ruler
+
+" Enable line and column numbers in the status line
+set laststatus=2
+
+" Enable 256-color terminal support
+set t_Co=256
+
+" Use the 'dark' color scheme (optional)
+colorscheme desert
+
+"NERDTree settings
+autocmd VimEnter * NERDTree
+map <c-b> :NERDTreeToggle<CR>
+
+" WSL yank support
+let s:clip = '/mnt/c/Windows/System32/clip.exe' " change this path according to your mount point
+if executable(s:clip)
+   augroup WSLYank
+       autocmd!
+       autocmd TextYankPost * if v:event.operator ==# 'y' | call system(s:clip, @0) | endif
+   augroup END
+endif
+
+
