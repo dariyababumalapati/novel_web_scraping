@@ -15,7 +15,7 @@ with open('tk/jsons/ch_links.json', 'r', encoding='utf-8') as file:
 
 start_number = 55
 
-stop_number = 56
+stop_number = 80
 
 update_chapter_number(stop_number)
 
