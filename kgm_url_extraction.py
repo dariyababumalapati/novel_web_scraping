@@ -30,7 +30,7 @@ for chapter in chapters:
 
     # print(chapter_title)
     cursor.execute("""
-        INSERT INTO king_of_german_mercenaries (chapter_title, url) VALUES (%s, %s)       
+        INSERT INTO kgm (chapter_title, url) VALUES (%s, %s)       
     """, chapter
     )
 
