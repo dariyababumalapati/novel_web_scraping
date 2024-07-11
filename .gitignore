@@ -1,3 +1,18 @@
+.venv/
 __pycache__/
 config.py
+.env
 
+# Ignore credential files
+share_file/client_secrets.json
+share_file/credentials.json
+
+tk/share_file/
+
+
+creds/
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> test1

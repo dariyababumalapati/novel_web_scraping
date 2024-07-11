@@ -1,0 +1,22 @@
+{
+    "d_folder_list": {
+        "ree": "1AidBHDjC0QrafhxekBe5SFtqxJzL4Nli",
+        "ree_texts": "1cGFKS7-vIXZi4T6YaVoQrcW6hrQNCtly",
+        "ra": "11cOTl6N5m9whAcPrQnCGksNRAE02GfGC",
+        "kor": "1YsGrSdHHRLRvV2bBvQuWNlnWfsm0AMC_",
+        "ming": "11sbPdj5jBxVf76ddkIvCjU3ASBKdlKT4",
+        "fcse": "133H_cn0urMFlVOh-iSeShe_6wwVNZrz2",
+        "tk": "11_l2XhCm7Jf3eyjOCrv1HaFhwxUwvNLN",
+        "qin": "1K6k1jU79KqcSsjWPYPiM7UP7MjuMFRX9?lfhs=2"
+    },
+    "chapter_number": 303,
+    "book_information": {
+        "book_title": "The King {chapter_number}",
+        "author_name": "Han Yue",
+        "language": "en",
+        "image_file_path": "tk/tk.jpeg",
+        "folder_path": "chapters_data",
+        "epub_file_name": "file_name",
+        "destination_directory": "C:/Users/91833/OneDrive/Desktop/books"
+    }
+}
