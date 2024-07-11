@@ -37,8 +37,8 @@ def get_records(sql_query):
         # executing the sql query
         cursor.execute(sql_query)
 
-        # fetching all the urls returned by the query
-        records = cursor.fetchall()
+        # Fetching all the URLs returned by the query
+        kgm_rows = cursor.fetchall()
 
         # closing the cursor (optional, as the connection will be closed separately)
         cursor.close()

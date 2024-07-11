@@ -1,4 +1,4 @@
-from database_module import get_records, create_connection
+from database_module_kgm import get_records, create_connection
 
 from beautifulsoup_module_kgm import create_html_file
 
@@ -10,8 +10,8 @@ rows = get_records(connection, query)
 
 raw_html = rows[0][2]
 
-create_html_file(raw_html, 'z.html')
+raw_html = rows[10][2]
 
 records = get_cn_records_id()
 
-print(records)
+create_html_file(raw_html, 'example_raw_html.html')

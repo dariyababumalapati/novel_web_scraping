@@ -219,5 +219,10 @@ def convert_html_to_xhtml(html_content: str):
         print(f"An unexpected error occurred: {ex}")
         return None
 
+def check_chinese_text(html_content:str):
+    soup = BeautifulSoup(html_content, 'html.parser')
+    
+
+
 if __name__ == '__main__':
      print('html_editing_modules.py running in main')
