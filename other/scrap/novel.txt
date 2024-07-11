@@ -1,0 +1,5 @@
+CREATE TABLE urls (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    chapter_title VARCHAR(250),
+    url VARCHAR(250)
+);

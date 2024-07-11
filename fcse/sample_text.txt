@@ -1,0 +1,4721 @@
+<div class="page-content" data-v-7e827125="" style="width:1000px;">
+ <div class="read-header" data-v-7e827125="" data-v-a4858719="">
+  <h1 class="chapter-title" data-v-a4858719="">
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Chapter 8 Nurnusis
+    </font>
+   </font>
+  </h1>
+  <ul class="info" data-v-a4858719="">
+   <li data-v-a4858719="">
+    <label data-v-a4858719="">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       Title of the Book:
+      </font>
+     </font>
+    </label>
+    <a class="book-title ypc-link" data-v-a4858719="" href="//yunqi.qq.com/detail/472146" target="_blank" title="From City-State to Empire">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       From City-State to Empire
+      </font>
+     </font>
+    </a>
+   </li>
+   <li data-v-a4858719="">
+    <label data-v-a4858719="">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       Author:
+      </font>
+     </font>
+    </label>
+    <a class="ypc-link" data-v-a4858719="" href="//yunqi.qq.com/writer/3635843003954401" target="_blank">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       Chen Rui
+      </font>
+     </font>
+    </a>
+   </li>
+   <li data-v-a4858719="">
+    <label data-v-a4858719="">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       Chapter word count:
+      </font>
+     </font>
+    </label>
+    <span data-v-a4858719="">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       2634 words
+      </font>
+     </font>
+    </span>
+   </li>
+   <li data-v-a4858719="">
+    <label data-v-a4858719="">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       Update time:
+      </font>
+     </font>
+    </label>
+    <span data-v-a4858719="">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       2010-03-08 23:13:16
+      </font>
+     </font>
+    </span>
+   </li>
+  </ul>
+ </div>
+ <!-- -->
+ <div class="isTxt chapter-box" data-v-7e827125="" id="article" style="font-size:20px;">
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     On the way back, Hero was restless. He knew from the tone of Demosthenes' last words that the general was not interested in his suggestions. While scolding Demosthenes for being stubborn, he once again strengthened his determination to carry out his original plan.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     In fact, at that time, most Greek generals were stubborn and insisted on their own views. Before the Battle of Salamis, after failing to convince the leaders of the Greek coalition forces to accept the proposal of a decisive battle with the Persians at sea for several days, the Athenian general Themistocles had to use a strategy to let the Persian navy blockade Salamis to force the Greeks to fight. In the subsequent Battle of Plataea, the Greek coalition forces confronted the Persian army in Plataea. The Greek coalition forces decided to retreat to a relatively advantageous position, but a Spartan general resolutely refused to retreat and spent the whole night in quarrels. On the second day, the rest of the troops retreated, but the central force of Sparta remained in place. As a result, it was surrounded by the Persian cavalry who came after hearing the news. The Greek coalition forces had to fight a decisive battle with the enemy. If the Persian general had not accidentally fallen off his horse and died, the outcome of the Greco-Persian War might have been rewritten.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     The stubborn nature of Greek generals comes from their culture. The Greeks who grew up in the Greek city-state system and culture advocate freedom, love thinking, like independence, pursue personal honor, and are extremely confident individuals who will not be easily changed by the will of others.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     This incident taught Shiloh a small lesson. He walked forward while thinking, and before he knew it, he had arrived at his own military tent.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Timasus, who was waiting there anxiously, came forward and asked: "Helo, what is the general calling you for?"
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Hilo looked at him with a heavy face: "The general is planning to launch a night raid on Syracuse in the next two days, and he asked me to participate."
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     "Oh!" Timasus opened his mouth wide and cried out in amazement: "This is true! It...it came true!"
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Shiloh made a gesture to silence her: "This is a military secret, you can't tell anyone."
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Timasus hesitated to speak and looked at Hero eagerly.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Hiro was very satisfied with Timasus's reaction, but his face remained calm: "This is only half of the truth. We need to wait and see."
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     "You...you should remind the general." Timasus seemed a little unwilling.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     "Brother, who do you think I am! Of course I reminded him. Even though the gods warned me to keep it secret, I still gave him suggestions in a tactful way out of my love for Athens. But not only did he not listen, he also drove me out of his tent. If I had told him the prophecy directly, I guess he would have killed me as a spy." Hero vented his anger.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     "Then...what should I do?" Timasus muttered to himself in confusion.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Hiro looked at him with contempt. The more he interacted with Timasus, the more he realized that this young man was too immature. However, on the other hand, it was a good thing for Hiro.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     "I was wondering who has such a loud voice. It turns out it's Shiloh who's back. He made me wait so long!" A man walked out of the military tent with a smile.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     "Shiloh, I forgot to tell you that Uncle Nur brought a bucket of sea fish to see you and waited for nearly an hour①."
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Uncle Nur? Nurnusis! Shiloh's eyes lit up, he was really looking forward to Cao Cao, Cao Cao coming! In Shiloh's memory, he admired Nurnusis very much. That was because when he was a teenager, he had taken Nurnusis's cargo ship several times and witnessed his unique courage as a seaman fighting against the wind and waves.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Shiloh came forward with a smile: "If I had known that the uncle was coming, I should have come back later."
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Nurnusis was stunned for a moment, then laughed: "The little bull's injury was not in vain, he has learned to joke."
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Hilo endured the strong fishy smell from Nurnusis and gave him a strong hug. "The harbor is so unsafe right now, but you still went out on a boat to fish for me. I really appreciate it!"
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     "It's not easy to catch these cod. Our boat was almost caught by the patrol boat of Syracuse. I deserve your thanks," said Nurnusis without any modesty.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     "Then let's not talk about these empty words. When we return to Athens, I will ask Uncle Solmus to let you take on more work."
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Nurnusis sent the fish because he wanted to build a relationship with the young master of the Shiloh family. Although the Shiloh family's business was now managed by Sulmus, Shiloh was already an adult and could take over his family's business at any time. He made some emotional investment now, which would be useful in the future. Unexpectedly, Shiloh saw through his intentions at a glance and immediately promised him benefits.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     How come this child has become smarter after not seeing him for a few days?
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Nurnusis was in a daze, and Shiloh continued, "Uncle, is the beach management very lax? Can you go into the sea at will?"
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     "We are just fulfilling our civic duty. We sent you here and will send you back to Athens. The council will pay us. We will also see if we can get some spoils here. We are not the navy and are not responsible for fighting. Although we have to follow the arrangements of the navy, we are free."
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Hilo was delighted when he heard this and asked again, "Does Syracuse blockade this great port tightly?"
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Nurnusis looked at Shiloh in surprise: "Hey, when did you start to care about these things? Do you want to run away?" As he said that, he laughed again.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Shiloh didn't laugh. At this moment, countless thoughts were running through his mind. Finally, he decided to take a gamble: "If I really want to escape, will the uncle help me?"
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     One stone can cause a thousand ripples!
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Nurnusis and Timasu beside him were stunned.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     "Hiro, could it be that... could it be that you have received the oracle? This expedition will..." Timasus just opened his mouth in panic when he was interrupted by Hiro: "I didn't receive it. Didn't you hear it clearly? This is just a hypothesis."
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Timasus breathed a sigh of relief, but then he thought: What does Hero mean by suddenly saying this?
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Nurnusis was confused and couldn't help but interrupt: "What are you two talking about?"
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     "Uncle, Hero received an oracle that we will launch a night attack on Syracuse, and in the end we... we will be defeated miserably. Now this prophecy has been half fulfilled." There was no need for Hero to explain, Timasus could not help but answer first.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Hero glanced at him seriously, and Timasus immediately realized that he had leaked the secret. Little did he know that this was exactly what Hero expected.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Oracle? Nurnus looked at Shiloh. In the dark night, Shiloh's eyes were bright and deep, making it hard to look at them. The rumor that Shiloh was saved by the gods had made Nurnus half-believe it because it was spread by word of mouth. Now he was 70% convinced. Shiloh was completely different in appearance and temperament. Was this really the blessing of the gods? !
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     "Aren't oracles only available to priests?" Nurnusis, of course, saw their little actions and became even more curious, so he deliberately provoked them.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Xi Luo coughed dryly and said helplessly: "Uncle, you are not an outsider, and you take care of us so much. Logically, I shouldn't hide anything from you, but the general repeatedly warned me to keep it strictly confidential, so I-"
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Nurnusis looked at Timasus and thought: It was said to be a secret, how did this guy know it?
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     He was angry, so he spoke stiffly: "You are being suspicious, kid. I don't want to hear any secrets from you. It's getting late. I should go back."
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     "Uncle, don't be angry. I told you." Xi Luo hurriedly grabbed him and said, "But, don't tell anyone else after you listen to it."
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     "I've been sailing for so many years and have encountered a lot of things. I can tell the difference between the important and the unimportant," said Nurnusis unhappily.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Shiloh told Nurnusis the "pictures" he saw during his illness.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     After listening to this, Nurnusis was silent for a long time, and then slowly said: "Whether this is true or not will be revealed in the next two days."
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     "I really hope these images are just my hallucinations." Shiloh sighed.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     "We shouldn't just wait, we should go and dissuade the general!" Timasus said excitedly.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Nurnusius looked at Hero and then at Timathus, and thought: Hero used to be reckless and Timathus was quiet, but now the situation is reversed.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     "Demosthenes is an extremely conceited guy. You'd better not provoke him." Nurnusis warned solemnly.
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     "No matter what happens, you two must protect yourselves first." Nurnusis stared at Shiloh until he nodded: "Sulmus told me to take good care of you two. If you have any difficulties, you can come to the dock to find me."
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     This sentence is exactly what Shiloh needs!
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Remark:
+    </font>
+   </font>
+  </p>
+  <p>
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     1. As early as 2000 BC, ancient Egypt divided the day into 24 hours and used sun clocks and water clocks to tell time. Ancient Greece inherited and developed the ancient Egyptians' way of telling time.
+    </font>
+   </font>
+  </p>
+ </div>
+ <!-- -->
+ <!-- -->
+ <div class="read-pagination page-bottom" data-v-0dae5a6b="" data-v-7e827125="">
+  <a class="read-pagination-item" data-v-0dae5a6b="" href="//yunqi.qq.com/read/472146/7">
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Previous Chapter
+    </font>
+   </font>
+  </a>
+  <a class="read-pagination-item" data-v-0dae5a6b="" href="//yunqi.qq.com/chapter/472146" title="From City-State to Empire Latest Chapter List">
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Table of contents
+    </font>
+   </font>
+  </a>
+  <a class="read-pagination-item" data-v-0dae5a6b="" href="//yunqi.qq.com/read/472146/9">
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     Next Chapter
+    </font>
+   </font>
+  </a>
+ </div>
+ <ul class="sider sider-left" data-v-7e827125="" style="transform: translate3d(-586px, 0px, 0px);">
+  <li class="user" data-v-7e827125="">
+   <a data-v-7e827125="" href="//yunqi.qq.com/user" rel="nofollow">
+    <div class="item-box" data-v-7e827125="">
+     <img alt="avatar-default" class="avatar" data-v-7e827125="" src="https://static.xiaoshuo.qq.com/pc-yunqi/static/avatar-default.f63bb9b1.png"/>
+    </div>
+    <div class="nickname" data-v-7e827125="">
+    </div>
+   </a>
+  </li>
+  <li data-v-7e827125="">
+   <a class="item-box" data-v-7e827125="" href="//yunqi.qq.com/" target="_blank" title="Yunqi Academy">
+    <i class="iconfont icon-goback" data-v-7e827125="">
+    </i>
+    <span data-v-7e827125="">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       front page
+      </font>
+     </font>
+    </span>
+   </a>
+  </li>
+  <li data-v-7e827125="">
+   <a class="item-box" data-v-7e827125="" href="//yunqi.qq.com/detail/472146" target="_blank" title="From City-State to Empire">
+    <i class="iconfont icon-detail" data-v-7e827125="">
+    </i>
+    <span data-v-7e827125="">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       Book Details
+      </font>
+     </font>
+    </span>
+   </a>
+  </li>
+  <li class="hasPop" data-v-7e827125="">
+   <div class="item-box" data-v-7e827125="">
+    <i class="iconfont icon-cata" data-v-7e827125="">
+    </i>
+    <a data-v-7e827125="" href="//yunqi.qq.com/chapter/472146" title="From City-State to Empire Latest Chapter List">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       Table of contents
+      </font>
+     </font>
+    </a>
+   </div>
+  </li>
+  <li data-v-7e827125="">
+   <div class="item-box" data-v-7e827125="">
+    <i class="iconfont icon-listening" data-v-7e827125="">
+    </i>
+    <span data-v-7e827125="">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       Audiobook
+      </font>
+     </font>
+    </span>
+   </div>
+  </li>
+ </ul>
+ <ul class="sider sider-right" data-v-7e827125="" style="transform: translate3d(500px, -50%, 0px); top: 50%;">
+  <!-- -->
+  <li data-v-7e827125="">
+   <div class="item-box" data-v-7e827125="">
+    <i class="iconfont icon-shelf" data-v-7e827125="">
+    </i>
+    <span data-v-7e827125="">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       Add to bookshelf
+      </font>
+     </font>
+    </span>
+   </div>
+  </li>
+  <li class="" data-v-7e827125="">
+   <div class="item-box" data-v-7e827125="">
+    <i class="iconfont icon-letter-a" data-v-7e827125="">
+    </i>
+    <span data-v-7e827125="">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       Font Size
+      </font>
+     </font>
+    </span>
+   </div>
+   <div class="reader-popup setting-popup" data-v-77a5d03f="" data-v-7e827125="" style="display: none;">
+    <i class="iconfont icon-close" data-v-77a5d03f="">
+    </i>
+    <div class="popup-header ypc-column-name" data-v-77a5d03f="">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       Adjust font size
+      </font>
+     </font>
+    </div>
+    <div class="popup-body" data-v-77a5d03f="">
+     <div class="item set" data-v-77a5d03f="">
+      <i class="iconfont icon-letter-a" data-v-77a5d03f="">
+      </i>
+      <font style="vertical-align: inherit;">
+       <font style="vertical-align: inherit;">
+        -
+       </font>
+      </font>
+     </div>
+     <div class="item cur-size" data-v-77a5d03f="">
+      <font style="vertical-align: inherit;">
+       <font style="vertical-align: inherit;">
+        20
+       </font>
+      </font>
+     </div>
+     <div class="item set" data-v-77a5d03f="">
+      <i class="iconfont icon-letter-a" data-v-77a5d03f="">
+      </i>
+      <font style="vertical-align: inherit;">
+       <font style="vertical-align: inherit;">
+        +
+       </font>
+      </font>
+     </div>
+    </div>
+   </div>
+  </li>
+  <li class="" data-v-7e827125="">
+   <div class="item-box" data-v-7e827125="">
+    <i class="iconfont icon-bg-color" data-v-7e827125="">
+    </i>
+    <span data-v-7e827125="">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       background
+      </font>
+     </font>
+    </span>
+   </div>
+   <div class="reader-popup setting-popup" data-v-41793bf4="" data-v-7e827125="" style="display: none;">
+    <i class="iconfont icon-close" data-v-41793bf4="">
+    </i>
+    <div class="popup-header ypc-column-name" data-v-41793bf4="">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       Reading background
+      </font>
+     </font>
+    </div>
+    <div class="popup-body" data-v-41793bf4="">
+     <div class="item active" data-darkreader-inline-bgcolor="" data-v-41793bf4="" style="background-color: rgb(224, 224, 224); --darkreader-inline-bgcolor: #2c2d2d;">
+     </div>
+     <div class="item" data-darkreader-inline-bgcolor="" data-v-41793bf4="" style="background-color: rgb(222, 217, 198); --darkreader-inline-bgcolor: #2e2d2a;">
+     </div>
+     <div class="item" data-darkreader-inline-bgcolor="" data-v-41793bf4="" style="background-color: rgb(230, 239, 228); --darkreader-inline-bgcolor: #2a2d29;">
+     </div>
+     <div class="item" data-darkreader-inline-bgcolor="" data-v-41793bf4="" style="background-color: rgb(246, 239, 239); --darkreader-inline-bgcolor: #1f1b1b;">
+     </div>
+     <div class="item" data-darkreader-inline-bgcolor="" data-v-41793bf4="" style="background-color: rgb(217, 224, 232); --darkreader-inline-bgcolor: #2c2c2d;">
+     </div>
+     <div class="item" data-darkreader-inline-bgcolor="" data-v-41793bf4="" style="background-color: rgb(25, 25, 25); --darkreader-inline-bgcolor: #141414;">
+     </div>
+    </div>
+   </div>
+  </li>
+  <li class="" data-v-7e827125="">
+   <div class="item-box" data-v-7e827125="">
+    <i class="iconfont icon-setting" data-v-7e827125="">
+    </i>
+    <span data-v-7e827125="">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       More
+      </font>
+     </font>
+    </span>
+   </div>
+   <div class="reader-popup setting-popup" data-v-719cce97="" data-v-7e827125="" style="display: none;">
+    <i class="iconfont icon-close" data-v-719cce97="">
+    </i>
+    <div class="popup-header ypc-column-name" data-v-719cce97="">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       More settings
+      </font>
+     </font>
+    </div>
+    <div class="popup-body" data-v-719cce97="">
+     <div class="item" data-v-719cce97="">
+      <span class="label" data-v-719cce97="">
+       <font style="vertical-align: inherit;">
+        <font style="vertical-align: inherit;">
+         Automatically purchase the next chapter
+        </font>
+       </font>
+      </span>
+      <span class="ypc-switch ypc-switch-normal" data-v-36d39140="" data-v-719cce97="">
+       <input class="ypc-switch-input" data-v-36d39140="" style="display: none;" type="checkbox"/>
+       <span class="ypc-switch-btn" data-v-36d39140="">
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </li>
+  <li class="" data-v-7e827125="">
+   <div class="item-box" data-v-7e827125="">
+    <i class="iconfont icon-phone" data-v-7e827125="">
+    </i>
+    <span data-v-7e827125="">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       phone-reading
+      </font>
+     </font>
+    </span>
+   </div>
+   <!-- -->
+  </li>
+  <li data-v-7e827125="">
+   <!-- -->
+  </li>
+ </ul>
+ <!-- -->
+ <a class="report ypc-link" data-v-7e827125="" href="https://jubao.reader.qq.com/report/report?appId=1450000219&amp;areaId=6&amp;type=3&amp;site=1&amp;id=22352695000878704&amp;extra=96004106900013940" rel="nofollow" target="_blank">
+  <i class="iconfont icon-jubao" data-v-7e827125="">
+  </i>
+  <span data-v-7e827125="">
+   <font style="vertical-align: inherit;">
+    <font style="vertical-align: inherit;">
+     report
+    </font>
+   </font>
+  </span>
+ </a>
+ <div class="book-dir-popup" data-v-7e827125="" style="width: 1000px; transform: translate3d(-500px, 0px, 0px); display: none;">
+  <i class="iconfont icon-close" data-v-7e827125="">
+  </i>
+  <div class="catalog" data-v-7e827125="" data-v-a71bddf4="">
+   <div class="catalog-header" data-v-a71bddf4="">
+    <div class="ypc-column-name" data-v-a71bddf4="">
+     <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">
+       Completed 165 chapters
+      </font>
+     </font>
+    </div>
+    <div class="order ypc-link" data-v-a71bddf4="">
+     <span data-v-a71bddf4="">
+      <font style="vertical-align: inherit;">
+       <font style="vertical-align: inherit;">
+        Reverse
+       </font>
+      </font>
+     </span>
+     <i class="iconfont icon-sorting-down" data-v-a71bddf4="">
+     </i>
+    </div>
+   </div>
+   <div class="catalog-body" data-v-a71bddf4="">
+    <ul class="book-dir" data-v-a71bddf4="" data-v-e55efa29="" style="display: none;">
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/165" title="第165章 布鲁提伊会战（六）">
+       <div class="title-wrap hasUpdate" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第165章 布鲁提伊会战（六）
+        </p>
+        <p class="item time" data-v-867ce4a9="">
+         更新时间：2012-05-13 20:46:35
+        </p>
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/164" title="第164章 布鲁提伊会战（五）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第164章 布鲁提伊会战（五）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/163" title="第163章 布鲁提伊会战（四）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第163章 布鲁提伊会战（四）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/162" title="第162章 布鲁提伊会战（三）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第162章 布鲁提伊会战（三）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/161" title="第161章 布鲁提伊会战（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第161章 布鲁提伊会战（二）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/160" title="第160章 布鲁提伊会战（一）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第160章 布鲁提伊会战（一）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/159" title="第159章 塞西托的告诫">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第159章 塞西托的告诫
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/158" title="第158章 水攻">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第158章 水攻
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/157" title="第157章 突袭">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第157章 突袭
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/156" title="第156章 塔特">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第156章 塔特
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/155" title="第155章 费启亚的计谋">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第155章 费启亚的计谋
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/154" title="第154章 波塞亚的王后">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第154章 波塞亚的王后
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/153" title="第153章 营地攻防战（四）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第153章 营地攻防战（四）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/152" title="第152章 营地攻防战（三）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第152章 营地攻防战（三）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/151" title="第151章 营地攻防战（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第151章 营地攻防战（二）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/150" title="第150章 营地攻防战（一）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第150章 营地攻防战（一）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/149" title="第149章 托尔">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第149章 托尔
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/148" title="第148章 击溃战">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第148章 击溃战
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/147" title="第147章 野望 绝望 希望">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第147章 野望 绝望 希望
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/146" title="第146章 誓师出征（一）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第146章 誓师出征（一）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/145" title="第145章 选择战争">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第145章 选择战争
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/144" title="第144章 求和？">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第144章 求和？
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/143" title="第143章 美皮亚袭来">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第143章 美皮亚袭来
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/142" title="第142章 关于通奸杀人案">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第142章 关于通奸杀人案
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/141" title="第141章 杀人事件和水磨">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第141章 杀人事件和水磨
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/140" title="第140章 毕达哥拉斯学派">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第140章 毕达哥拉斯学派
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/139" title="第139章 任命">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第139章 任命
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/138" title="第138章 特洛伊（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第138章 特洛伊（二）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/137" title="第137章 特洛伊（一）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第137章 特洛伊（一）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/136" title="第136章 贪婪的塔兰图姆人">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第136章 贪婪的塔兰图姆人
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/135" title="第135章 希洛的酒楼（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第135章 希洛的酒楼（二）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/134" title="第134章 希洛的酒楼">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第134章 希洛的酒楼
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/133" title="第133章 内讧">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第133章 内讧
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/132" title="第132章 波赛亚与布鲁提伊联军之战（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第132章 波赛亚与布鲁提伊联军之战（二）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/131" title="第131章 波赛亚与布鲁提伊联军之战（一）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第131章 波赛亚与布鲁提伊联军之战（一）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/130" title="第130章 不得不进行的会战">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第130章 不得不进行的会战
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/129" title="第129章 等待不如进攻">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第129章 等待不如进攻
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/128" title="第128章 卡利克瑞图的建议">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第128章 卡利克瑞图的建议
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/127" title="第127章 国王的婚礼">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第127章 国王的婚礼
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/126" title="第126章 橄榄球">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第126章 橄榄球
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/125" title="第125章 特里斯与赫拉克莱斯">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第125章 特里斯与赫拉克莱斯
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/124" title="第124章 波赛亚军旗">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第124章 波赛亚军旗
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/123" title="第123章 医疗健康委员会">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第123章 医疗健康委员会
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/122" title="第122章 波赛亚是波赛亚人的城邦！">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第122章 波赛亚是波赛亚人的城邦！
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/121" title="第121章 雅典使者">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第121章 雅典使者
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/120" title="第120章 骑兵">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第120章 骑兵
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/119" title="第119章 移民委员会的争论（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第119章 移民委员会的争论（二）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/118" title="第118章 移民委员会的争论">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第118章 移民委员会的争论
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/117" title="第117章 西埃西斯与波赛亚（六）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第117章 西埃西斯与波赛亚（六）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/116" title="第116章 西埃西斯与波赛亚（五）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第116章 西埃西斯与波赛亚（五）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/115" title="第115章 西埃西斯与波赛亚（四）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第115章 西埃西斯与波赛亚（四）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/114" title="第114章 西埃西斯与波赛亚（三）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第114章 西埃西斯与波赛亚（三）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/113" title="第113章 西埃西斯与波赛亚（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第113章 西埃西斯与波赛亚（二）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/112" title="第112章 西埃西斯与波赛亚（一）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第112章 西埃西斯与波赛亚（一）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/111" title="第111章 风波">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第111章 风波
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/110" title="第110章 希波克拉底">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第110章 希波克拉底
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/109" title="第109章 邀请">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第109章 邀请
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/108" title="第108章 第二位妻子">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第108章 第二位妻子
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/107" title="第107章 再次求婚">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第107章 再次求婚
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/106" title="第106章 到波赛亚去！">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第106章 到波赛亚去！
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/105" title="第105章 回程">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第105章 回程
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/104" title="第104章 捣乱者">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第104章 捣乱者
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/103" title="第103章 求婚">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第103章 求婚
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/102" title="第102章 舌战塔兰图姆（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第102章 舌战塔兰图姆（二）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/101" title="第101章 新技术">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第101章 新技术
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/100" title="第100章 说媒">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第100章 说媒
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/99" title="第99章 内乱">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第99章 内乱
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/98" title="第98章 祸根">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第98章 祸根
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/97" title="第97章 荣誉公民">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第97章 荣誉公民
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/96" title="第96章 制定法律">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第96章 制定法律
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/95" title="第95章 分配土地">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第95章 分配土地
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/94" title="第94章 波赛亚国王">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第94章 波赛亚国王
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/93" title="第93章 政体之争">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第93章 政体之争
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/92" title="第92章 波赛亚">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第92章 波赛亚
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/91" title="第91章 路凯拉姆会战">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第91章 路凯拉姆会战
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/90" title="第90章 会战之前">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第90章 会战之前
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/89" title="第89章 谨慎">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第89章 谨慎
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/88" title="第88章 鲁尔索">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第88章 鲁尔索
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/87" title="第87章 同盟">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第87章 同盟
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/86" title="第86章 帮你夺回山寨">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第86章 帮你夺回山寨
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/85" title="第85章 来晚了">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第85章 来晚了
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/84" title="第84章 阿德罗塞尼河之战（四）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第84章 阿德罗塞尼河之战（四）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/83" title="第83章 阿德罗塞尼河之战（三）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第83章 阿德罗塞尼河之战（三）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/82" title="第82章 阿德罗塞尼河之战（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第82章 阿德罗塞尼河之战（二）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/81" title="第81章 阿德罗塞尼河之战（一）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第81章 阿德罗塞尼河之战（一）
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/80" title="第80章 敌人来了">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第80章 敌人来了
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/79" title="第79章 裂痕">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第79章 裂痕
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/78" title="第78章 到达">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第78章 到达
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/77" title="第77章 粮食危机">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第77章 粮食危机
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/76" title="第76章 奴隶与武器">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第76章 奴隶与武器
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/75" title="第75章 图西姆的使者">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第75章 图西姆的使者
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/74" title="第74章 训练">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第74章 训练
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/73" title="第73章 奴隶战士">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第73章 奴隶战士
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/72" title="第72章 格里诺斯的邀请">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第72章 格里诺斯的邀请
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/71" title="第71章 波塞冬与海豚">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第71章 波塞冬与海豚
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/70" title="第70章 告别雅典">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第70章 告别雅典
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/69" title="第69章 庭辩（三）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第69章 庭辩（三）
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/68" title="第68章 庭辩（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第68章 庭辩（二）
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/67" title="第67章 庭辩（一）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第67章 庭辩（一）
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/66" title="第66章 全民公审">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第66章 全民公审
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/65" title="第65章 拒绝">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第65章 拒绝
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/64" title="第64章 亚西比德">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第64章 亚西比德
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/63" title="第63章 阿基斯的邀请">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第63章 阿基斯的邀请
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/62" title="第62章 庆典">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第62章 庆典
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/61" title="第61章 全希腊跑的最快的人">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第61章 全希腊跑的最快的人
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/60" title="第60章 斯巴达选手">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第60章 斯巴达选手
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/59" title="第59章 出发，去科林斯">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第59章 出发，去科林斯
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/58" title="第58章 商讨">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第58章 商讨
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/57" title="第57章 希洛要买的土地？">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第57章 希洛要买的土地？
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/56" title="第56章 图西姆">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第56章 图西姆
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/55" title="第55章 战斧">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第55章 战斧
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/54" title="第54章 比试">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第54章 比试
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/53" title="第53章 大祭司">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第53章 大祭司
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/52" title="第52章 再当神棍">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第52章 再当神棍
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/51" title="第51章 谁是老师？">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第51章 谁是老师？
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/50" title="第50章 奴隶免费接受教育？">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第50章 奴隶免费接受教育？
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/49" title="第49章 改革">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第49章 改革
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/48" title="第48章 参加赛会？">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第48章 参加赛会？
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/47" title="第47章 买奴隶">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第47章 买奴隶
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/46" title="第46章 凯尼加">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第46章 凯尼加
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/45" title="第45章 阿莱夏和苏派特">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第45章 阿莱夏和苏派特
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/44" title="第44章 找坚固的盒子来装载美丽">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第44章 找坚固的盒子来装载美丽
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/43" title="第43章 想做僭主还是想娶妻？">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第43章 想做僭主还是想娶妻？
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/42" title="第42章 激辩">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第42章 激辩
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/41" title="第41章 小伯里克利的目的">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第41章 小伯里克利的目的
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/40" title="第40章 小伯里克利">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第40章 小伯里克利
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/39" title="第39章 希洛的提问">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第39章 希洛的提问
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/38" title="第38章 脏话">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第38章 脏话
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/37" title="第37章 公民大会">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第37章 公民大会
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/36" title="第36章 苏格拉底和他的学生">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第36章 苏格拉底和他的学生
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/35" title="第35章 阿戈拉市场">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第35章 阿戈拉市场
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/34" title="第34章 安菲丽雅">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第34章 安菲丽雅
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/33" title="第33章 相遇">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第33章 相遇
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/32" title="第32章 希洛的计划">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第32章 希洛的计划
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/31" title="第31章 希洛家的历史">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第31章 希洛家的历史
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/30" title="第30章 奖励‘">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第30章 奖励‘
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/29" title="第29章 将军皮奥尼多斯">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第29章 将军皮奥尼多斯
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/28" title="第28章 苏尔姆斯和戈里卡农">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第28章 苏尔姆斯和戈里卡农
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/27" title="第27章 主人归来">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第27章 主人归来
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/26" title="第26章 索斯提阿">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第26章 索斯提阿
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/25" title="第25章 比雷埃夫斯港">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第25章 比雷埃夫斯港
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/24" title="第24章 回家">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第24章 回家
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/23" title="第23章 血战">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第23章 血战
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/22" title="第22章 海盗">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第22章 海盗
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/21" title="第21章 在海上">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第21章 在海上
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/20" title="第20章 红月">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第20章 红月
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/19" title="第19章 回营">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第19章 回营
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/18" title="第18章 策略">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第18章 策略
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/17" title="第17章 应验">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第17章 应验
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/16" title="第16章 神谕？">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第16章 神谕？
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/15" title="第15章 骑兵的突袭">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第15章 骑兵的突袭
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/14" title="第14章 德谟斯提尼的阴谋">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第14章 德谟斯提尼的阴谋
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/13" title="第13章 撤退还是留下">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第13章 撤退还是留下
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/12" title="第12章 暴乱">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第12章 暴乱
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/11" title="第11章 溃败">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第11章 溃败
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/10" title="第10章 仓促的会战">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第10章 仓促的会战
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/9" title="第9章 战斗动员">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第9章 战斗动员
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/8" title="第8章 努尔努西斯">
+       <div class="title-wrap highlight" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第8章 努尔努西斯
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/7" title="第7章 德莫斯提尼的计划">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第7章 德莫斯提尼的计划
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/6" title="第6章 提玛苏斯">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第6章 提玛苏斯
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/5" title="第5章 神棍">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第5章 神棍
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/4" title="第4章 塞西托">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第4章 塞西托
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/3" title="第3章 重获新生">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第3章 重获新生
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/2" title="第2章 援军">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第2章 援军
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/1" title="第1章 引子： 故事开始前的历史">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第1章 引子： 故事开始前的历史
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+    </ul>
+    <ul class="book-dir" data-v-a71bddf4="" data-v-e55efa29="">
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/1" title="第1章 引子： 故事开始前的历史">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第1章 引子： 故事开始前的历史
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/2" title="第2章 援军">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第2章 援军
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/3" title="第3章 重获新生">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第3章 重获新生
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/4" title="第4章 塞西托">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第4章 塞西托
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/5" title="第5章 神棍">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第5章 神棍
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/6" title="第6章 提玛苏斯">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第6章 提玛苏斯
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/7" title="第7章 德莫斯提尼的计划">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第7章 德莫斯提尼的计划
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/8" title="第8章 努尔努西斯">
+       <div class="title-wrap highlight" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第8章 努尔努西斯
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/9" title="第9章 战斗动员">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第9章 战斗动员
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/10" title="第10章 仓促的会战">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第10章 仓促的会战
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/11" title="第11章 溃败">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第11章 溃败
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/12" title="第12章 暴乱">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第12章 暴乱
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/13" title="第13章 撤退还是留下">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第13章 撤退还是留下
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/14" title="第14章 德谟斯提尼的阴谋">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第14章 德谟斯提尼的阴谋
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/15" title="第15章 骑兵的突袭">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第15章 骑兵的突袭
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/16" title="第16章 神谕？">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第16章 神谕？
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/17" title="第17章 应验">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第17章 应验
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/18" title="第18章 策略">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第18章 策略
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/19" title="第19章 回营">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第19章 回营
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/20" title="第20章 红月">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第20章 红月
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/21" title="第21章 在海上">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第21章 在海上
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/22" title="第22章 海盗">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第22章 海盗
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/23" title="第23章 血战">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第23章 血战
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/24" title="第24章 回家">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第24章 回家
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/25" title="第25章 比雷埃夫斯港">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第25章 比雷埃夫斯港
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/26" title="第26章 索斯提阿">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第26章 索斯提阿
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/27" title="第27章 主人归来">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第27章 主人归来
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/28" title="第28章 苏尔姆斯和戈里卡农">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第28章 苏尔姆斯和戈里卡农
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/29" title="第29章 将军皮奥尼多斯">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第29章 将军皮奥尼多斯
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/30" title="第30章 奖励‘">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第30章 奖励‘
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/31" title="第31章 希洛家的历史">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第31章 希洛家的历史
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/32" title="第32章 希洛的计划">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第32章 希洛的计划
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/33" title="第33章 相遇">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第33章 相遇
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/34" title="第34章 安菲丽雅">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第34章 安菲丽雅
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/35" title="第35章 阿戈拉市场">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第35章 阿戈拉市场
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/36" title="第36章 苏格拉底和他的学生">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第36章 苏格拉底和他的学生
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/37" title="第37章 公民大会">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第37章 公民大会
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/38" title="第38章 脏话">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第38章 脏话
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/39" title="第39章 希洛的提问">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第39章 希洛的提问
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/40" title="第40章 小伯里克利">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第40章 小伯里克利
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/41" title="第41章 小伯里克利的目的">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第41章 小伯里克利的目的
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/42" title="第42章 激辩">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第42章 激辩
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/43" title="第43章 想做僭主还是想娶妻？">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第43章 想做僭主还是想娶妻？
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/44" title="第44章 找坚固的盒子来装载美丽">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第44章 找坚固的盒子来装载美丽
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/45" title="第45章 阿莱夏和苏派特">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第45章 阿莱夏和苏派特
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/46" title="第46章 凯尼加">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第46章 凯尼加
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/47" title="第47章 买奴隶">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第47章 买奴隶
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/48" title="第48章 参加赛会？">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第48章 参加赛会？
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/49" title="第49章 改革">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第49章 改革
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/50" title="第50章 奴隶免费接受教育？">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第50章 奴隶免费接受教育？
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/51" title="第51章 谁是老师？">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第51章 谁是老师？
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/52" title="第52章 再当神棍">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第52章 再当神棍
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/53" title="第53章 大祭司">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第53章 大祭司
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/54" title="第54章 比试">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第54章 比试
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/55" title="第55章 战斧">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第55章 战斧
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/56" title="第56章 图西姆">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第56章 图西姆
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/57" title="第57章 希洛要买的土地？">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第57章 希洛要买的土地？
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/58" title="第58章 商讨">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第58章 商讨
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/59" title="第59章 出发，去科林斯">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第59章 出发，去科林斯
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/60" title="第60章 斯巴达选手">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第60章 斯巴达选手
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/61" title="第61章 全希腊跑的最快的人">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第61章 全希腊跑的最快的人
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/62" title="第62章 庆典">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第62章 庆典
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/63" title="第63章 阿基斯的邀请">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第63章 阿基斯的邀请
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/64" title="第64章 亚西比德">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第64章 亚西比德
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/65" title="第65章 拒绝">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第65章 拒绝
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/66" title="第66章 全民公审">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第66章 全民公审
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/67" title="第67章 庭辩（一）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第67章 庭辩（一）
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/68" title="第68章 庭辩（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第68章 庭辩（二）
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/69" title="第69章 庭辩（三）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第69章 庭辩（三）
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/70" title="第70章 告别雅典">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第70章 告别雅典
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/71" title="第71章 波塞冬与海豚">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第71章 波塞冬与海豚
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/72" title="第72章 格里诺斯的邀请">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第72章 格里诺斯的邀请
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/73" title="第73章 奴隶战士">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第73章 奴隶战士
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/74" title="第74章 训练">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第74章 训练
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/75" title="第75章 图西姆的使者">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第75章 图西姆的使者
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/76" title="第76章 奴隶与武器">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第76章 奴隶与武器
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/77" title="第77章 粮食危机">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第77章 粮食危机
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/78" title="第78章 到达">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第78章 到达
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/79" title="第79章 裂痕">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第79章 裂痕
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/80" title="第80章 敌人来了">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第80章 敌人来了
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/81" title="第81章 阿德罗塞尼河之战（一）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第81章 阿德罗塞尼河之战（一）
+        </p>
+        <!-- -->
+       </div>
+       <!-- -->
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/82" title="第82章 阿德罗塞尼河之战（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第82章 阿德罗塞尼河之战（二）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/83" title="第83章 阿德罗塞尼河之战（三）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第83章 阿德罗塞尼河之战（三）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/84" title="第84章 阿德罗塞尼河之战（四）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第84章 阿德罗塞尼河之战（四）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/85" title="第85章 来晚了">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第85章 来晚了
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/86" title="第86章 帮你夺回山寨">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第86章 帮你夺回山寨
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/87" title="第87章 同盟">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第87章 同盟
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/88" title="第88章 鲁尔索">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第88章 鲁尔索
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/89" title="第89章 谨慎">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第89章 谨慎
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/90" title="第90章 会战之前">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第90章 会战之前
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/91" title="第91章 路凯拉姆会战">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第91章 路凯拉姆会战
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/92" title="第92章 波赛亚">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第92章 波赛亚
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/93" title="第93章 政体之争">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第93章 政体之争
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/94" title="第94章 波赛亚国王">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第94章 波赛亚国王
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/95" title="第95章 分配土地">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第95章 分配土地
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/96" title="第96章 制定法律">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第96章 制定法律
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/97" title="第97章 荣誉公民">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第97章 荣誉公民
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/98" title="第98章 祸根">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第98章 祸根
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/99" title="第99章 内乱">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第99章 内乱
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/100" title="第100章 说媒">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第100章 说媒
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/101" title="第101章 新技术">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第101章 新技术
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/102" title="第102章 舌战塔兰图姆（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第102章 舌战塔兰图姆（二）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/103" title="第103章 求婚">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第103章 求婚
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/104" title="第104章 捣乱者">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第104章 捣乱者
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/105" title="第105章 回程">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第105章 回程
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/106" title="第106章 到波赛亚去！">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第106章 到波赛亚去！
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/107" title="第107章 再次求婚">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第107章 再次求婚
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/108" title="第108章 第二位妻子">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第108章 第二位妻子
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/109" title="第109章 邀请">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第109章 邀请
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/110" title="第110章 希波克拉底">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第110章 希波克拉底
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/111" title="第111章 风波">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第111章 风波
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/112" title="第112章 西埃西斯与波赛亚（一）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第112章 西埃西斯与波赛亚（一）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/113" title="第113章 西埃西斯与波赛亚（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第113章 西埃西斯与波赛亚（二）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/114" title="第114章 西埃西斯与波赛亚（三）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第114章 西埃西斯与波赛亚（三）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/115" title="第115章 西埃西斯与波赛亚（四）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第115章 西埃西斯与波赛亚（四）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/116" title="第116章 西埃西斯与波赛亚（五）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第116章 西埃西斯与波赛亚（五）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/117" title="第117章 西埃西斯与波赛亚（六）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第117章 西埃西斯与波赛亚（六）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/118" title="第118章 移民委员会的争论">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第118章 移民委员会的争论
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/119" title="第119章 移民委员会的争论（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第119章 移民委员会的争论（二）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/120" title="第120章 骑兵">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第120章 骑兵
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/121" title="第121章 雅典使者">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第121章 雅典使者
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/122" title="第122章 波赛亚是波赛亚人的城邦！">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第122章 波赛亚是波赛亚人的城邦！
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/123" title="第123章 医疗健康委员会">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第123章 医疗健康委员会
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/124" title="第124章 波赛亚军旗">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第124章 波赛亚军旗
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/125" title="第125章 特里斯与赫拉克莱斯">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第125章 特里斯与赫拉克莱斯
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/126" title="第126章 橄榄球">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第126章 橄榄球
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/127" title="第127章 国王的婚礼">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第127章 国王的婚礼
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/128" title="第128章 卡利克瑞图的建议">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第128章 卡利克瑞图的建议
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/129" title="第129章 等待不如进攻">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第129章 等待不如进攻
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/130" title="第130章 不得不进行的会战">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第130章 不得不进行的会战
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/131" title="第131章 波赛亚与布鲁提伊联军之战（一）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第131章 波赛亚与布鲁提伊联军之战（一）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/132" title="第132章 波赛亚与布鲁提伊联军之战（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第132章 波赛亚与布鲁提伊联军之战（二）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/133" title="第133章 内讧">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第133章 内讧
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/134" title="第134章 希洛的酒楼">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第134章 希洛的酒楼
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/135" title="第135章 希洛的酒楼（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第135章 希洛的酒楼（二）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/136" title="第136章 贪婪的塔兰图姆人">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第136章 贪婪的塔兰图姆人
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/137" title="第137章 特洛伊（一）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第137章 特洛伊（一）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/138" title="第138章 特洛伊（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第138章 特洛伊（二）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/139" title="第139章 任命">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第139章 任命
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/140" title="第140章 毕达哥拉斯学派">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第140章 毕达哥拉斯学派
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/141" title="第141章 杀人事件和水磨">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第141章 杀人事件和水磨
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/142" title="第142章 关于通奸杀人案">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第142章 关于通奸杀人案
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/143" title="第143章 美皮亚袭来">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第143章 美皮亚袭来
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/144" title="第144章 求和？">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第144章 求和？
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/145" title="第145章 选择战争">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第145章 选择战争
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/146" title="第146章 誓师出征（一）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第146章 誓师出征（一）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/147" title="第147章 野望 绝望 希望">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第147章 野望 绝望 希望
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/148" title="第148章 击溃战">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第148章 击溃战
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/149" title="第149章 托尔">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第149章 托尔
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/150" title="第150章 营地攻防战（一）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第150章 营地攻防战（一）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/151" title="第151章 营地攻防战（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第151章 营地攻防战（二）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/152" title="第152章 营地攻防战（三）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第152章 营地攻防战（三）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/153" title="第153章 营地攻防战（四）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第153章 营地攻防战（四）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/154" title="第154章 波塞亚的王后">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第154章 波塞亚的王后
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/155" title="第155章 费启亚的计谋">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第155章 费启亚的计谋
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/156" title="第156章 塔特">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第156章 塔特
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/157" title="第157章 突袭">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第157章 突袭
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/158" title="第158章 水攻">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第158章 水攻
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/159" title="第159章 塞西托的告诫">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第159章 塞西托的告诫
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/160" title="第160章 布鲁提伊会战（一）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第160章 布鲁提伊会战（一）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/161" title="第161章 布鲁提伊会战（二）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第161章 布鲁提伊会战（二）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/162" title="第162章 布鲁提伊会战（三）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第162章 布鲁提伊会战（三）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/163" title="第163章 布鲁提伊会战（四）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第163章 布鲁提伊会战（四）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/164" title="第164章 布鲁提伊会战（五）">
+       <div class="title-wrap" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第164章 布鲁提伊会战（五）
+        </p>
+        <!-- -->
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+     <li class="list" data-v-e55efa29="">
+      <a class="catalogueItem ypc-link" data-v-867ce4a9="" data-v-e55efa29="" href="//yunqi.qq.com/read/472146/165" title="第165章 布鲁提伊会战（六）">
+       <div class="title-wrap hasUpdate" data-v-867ce4a9="">
+        <p class="item" data-v-867ce4a9="">
+         第165章 布鲁提伊会战（六）
+        </p>
+        <p class="item time" data-v-867ce4a9="">
+         更新时间：2012-05-13 20:46:35
+        </p>
+       </div>
+       <span class="app-free" data-v-867ce4a9="">
+        APP免费
+       </span>
+      </a>
+     </li>
+    </ul>
+   </div>
+  </div>
+ </div>
+ <!--[-->
+ <!-- -->
+ <!-- -->
+ <!-- -->
+ <!--]-->
+ <!-- -->
+</div>

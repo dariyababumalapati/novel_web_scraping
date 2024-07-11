@@ -31,21 +31,63 @@ def upload_f_to_g_drive(file_name, folder_id, folder_path=None,):
 
 if __name__ == "__main__":
 
+<<<<<<< HEAD
+    # with open('inproject_data.json', 'r', encoding='utf-8') as f:
+    #     data = json.load(f)
+
+    # # chapters_range = data['chapters_range']
+
+    # start_number = 15
+
+    # stop_number = 50
+
+    # novel = 'fcse'
+    
+    # dowloads_f_path = "C:/Users/91833/OneDrive/Desktop/books"
+    # file_name = fr"C:\Users\91833\Downloads\{novel}_{stop_number}.epub"
+    # generic_file_name = r"C:/Users/91833/OneDrive/Desktop/books/ree.epub"
+=======
     with open('inproject_data.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-    chapters_range = data['chapters_range']
+    # chapters_range = data['chapters_range']
+
+    start_number = 15
+
+    stop_number = 50
+
+    novel = 'fcse'
     
-    dowloads_f_path = "C:/Users/91833/OneDrive/Desktop/books/MHAG"
-    file_name = f"G:/Books/Novels/King Of Mercenaries c1-83.epub"
+    dowloads_f_path = "C:/Users/91833/OneDrive/Desktop/books"
+<<<<<<< HEAD
+    file_name = fr"C:\Users\91833\Downloads\{novel}_{stop_number}.epub"
+    generic_file_name = r"C:/Users/91833/OneDrive/Desktop/books/ree.epub"
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
+=======
+    file_name = f"C:/Users/91833/OneDrive/Desktop/books/king_of_mercenaries.epub"
 
     novels_folder = '1vb0JqLPHFNj9F4G7NRbgxI_Sips5GBVx'
     hre = '1D31g6amVH_yiEuNkECC2sDGJJ81J2LhK'
     mhag = "1ZusfIpX4bTnIRAxNpIABNhcMy54RFdCX"
     lich = os.environ.get('LICH_NOVEL_FOLDER')
+>>>>>>> 0f6c9b9 (extraction complete)
     
+    drive_folders ={
+        'novels': '1vb0JqLPHFNj9F4G7NRbgxI_Sips5GBVx',
+        'hre': '1D31g6amVH_yiEuNkECC2sDGJJ81J2LhK',
+        'mhag': "1ZusfIpX4bTnIRAxNpIABNhcMy54RFdCX",
+        'ree': "1AidBHDjC0QrafhxekBe5SFtqxJzL4Nli",
+        'lich': os.environ.get('LICH_NOVEL_FOLDER'),
+        'fcse': '133H_cn0urMFlVOh-iSeShe_6wwVNZrz2',
 
-    folder_id = novels_folder
+        }
 
+    folder_id = drive_folders['fcse']
+
+<<<<<<< HEAD
+    file_name = 'c1.html'
+
+=======
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
     upload_f_to_g_drive(file_name, folder_id)
     print('running files upload to drive main')
