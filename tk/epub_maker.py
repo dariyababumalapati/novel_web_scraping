@@ -84,7 +84,11 @@ class EpubMaker:
         """
         self.add_metadata(book_info["book_title"], book_info["author_name"], book_info["language"])
         self.add_cover_image(book_info["image_file_path"])
+<<<<<<< HEAD
         self.add_chapters(book_info["chapters_dict"], book_info["language"])
+=======
+        self.add_chapters(book_info["folder_path"], book_info["language"])
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
         self.add_table_of_contents()
         self.create_epub_file(f'{book_info["destination_directory"]}/{book_info["epub_file_name"]}')
 

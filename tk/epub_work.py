@@ -30,7 +30,11 @@ book_information = {
     "author_name": "Han Yue",
     "language": "en",
     "image_file_path": "tk/tk.jpeg",
+<<<<<<< HEAD
     "chapters_dict": chapters_data,
+=======
+    "folder_path": chapters_data,
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
     "epub_file_name": file_name,
     "destination_directory": "C:/Users/91833/OneDrive/Desktop/books",
     }

@@ -31,6 +31,7 @@ def upload_f_to_g_drive(file_name, folder_id, folder_path=None,):
 
 if __name__ == "__main__":
 
+<<<<<<< HEAD
     # with open('inproject_data.json', 'r', encoding='utf-8') as f:
     #     data = json.load(f)
 
@@ -45,6 +46,22 @@ if __name__ == "__main__":
     # dowloads_f_path = "C:/Users/91833/OneDrive/Desktop/books"
     # file_name = fr"C:\Users\91833\Downloads\{novel}_{stop_number}.epub"
     # generic_file_name = r"C:/Users/91833/OneDrive/Desktop/books/ree.epub"
+=======
+    with open('inproject_data.json', 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    # chapters_range = data['chapters_range']
+
+    start_number = 15
+
+    stop_number = 50
+
+    novel = 'fcse'
+    
+    dowloads_f_path = "C:/Users/91833/OneDrive/Desktop/books"
+    file_name = fr"C:\Users\91833\Downloads\{novel}_{stop_number}.epub"
+    generic_file_name = r"C:/Users/91833/OneDrive/Desktop/books/ree.epub"
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
     
     drive_folders ={
         'novels': '1vb0JqLPHFNj9F4G7NRbgxI_Sips5GBVx',
@@ -58,7 +75,10 @@ if __name__ == "__main__":
 
     folder_id = drive_folders['fcse']
 
+<<<<<<< HEAD
     file_name = 'c1.html'
 
+=======
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
     upload_f_to_g_drive(file_name, folder_id)
     print('running files upload to drive main')

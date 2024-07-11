@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
+<<<<<<< HEAD
 import pyperclip
 
 
@@ -15,6 +16,8 @@ def update_chapter_number(chapter_number):
     with open(json_file, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4)
 
+=======
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
 
 def generate_urls(number):
     urls = {}
@@ -29,6 +32,7 @@ def get_soup(url):
     soup = BeautifulSoup(response.content, 'html.parser')
     return soup.prettify()  
 
+<<<<<<< HEAD
 def check_chinese_text(text: str) -> bool:
     # Define a regex pattern that matches Chinese characters
     chinese_pattern = re.compile('[\u4e00-\u9fff]')
@@ -38,6 +42,12 @@ def check_chinese_text(text: str) -> bool:
 def extract_chapter_html(outer_html):
     soup = BeautifulSoup(outer_html, 'html.parser')
     title_element = soup.find('h1', class_='main-title')
+=======
+def extract_chapter_html(outer_html):
+    soup = BeautifulSoup(outer_html, 'html.parser')
+    title_element = soup.find('h1', class_='main-title')
+    print(title_element)
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
     chapter_element = soup.find('div', class_='par fontsize-16')
     html_tag = soup.new_tag('html')
     html_tag['xmlns'] = "http://www.w3.org/1999/xhtml"
@@ -52,6 +62,7 @@ def extract_chapter_html(outer_html):
 
     return html_tag.prettify()
 
+<<<<<<< HEAD
 def extract_uu_chapter_html(outer_html):
     soup = BeautifulSoup(outer_html, 'html.parser')
 
@@ -70,6 +81,8 @@ def extract_uu_chapter_html(outer_html):
 
     return html_tag.prettify()
 
+=======
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
 def convert_text_to_html(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         text = file.read()
@@ -219,6 +232,7 @@ def convert_html_to_xhtml(html_code):
     return doctype + '\n' + soup.prettify()
 
 
+<<<<<<< HEAD
 def check_chinese_text(text: str, exception_count) -> bool:
     # Define a regex pattern that matches Chinese characters
     chinese_pattern = re.compile('[\u4e00-\u9fff]')
@@ -270,3 +284,38 @@ if __name__ == "__main__":
     # Write the prettified HTML content to the file
     with open(file_path, 'w', encoding='utf-8') as file:
         file.write(manufactured_html)
+=======
+def check_chinese_text(text: str) -> bool:
+    # Define a regex pattern that matches Chinese characters
+    chinese_pattern = re.compile('[\u4e00-\u9fff]')
+    # Return True if any Chinese character is found, otherwise False
+    return bool(chinese_pattern.search(text))
+
+
+def update_chapter_number(chapter_number):
+    with open('fcse/inproject_data.json', 'r', encoding='utf-8') as f:
+        data = json.load(f)
+        data['chapter_number'] = chapter_number
+
+    with open('fcse/inproject_data.json', 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=4)
+
+if __name__ == "__main__":
+    number_of_chapters = 2
+    urls = generate_urls(number_of_chapters)
+    for chapter, url in urls.items():
+        soup = get_soup(url)
+        chapter_html = extract_chapter_html(soup)
+        xhtml_content = convert_html_to_xhtml(chapter_html)
+
+        file_name = f"rmf_htmls/{chapter}.html"
+
+        with open(file_name, 'w', encoding='utf-8') as file:
+            file.write(chapter_html)
+
+        
+        xfile_name = f"rmf_xhtmls/{chapter}.html"
+
+        with open(xfile_name, 'w', encoding='utf-8') as file:
+            file.write(xhtml_content)
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841

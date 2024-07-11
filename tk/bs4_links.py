@@ -1,10 +1,15 @@
 from bs4 import BeautifulSoup
 import json
 
+<<<<<<< HEAD
 import pyperclip
 
 # Read from 'tk/htmls/ch_links.html' to links_code
 with open("tk/htmls/ch_links_2.html", "r", encoding="utf-8") as file:
+=======
+# Read from 'tk/htmls/ch_links.html' to links_code
+with open("tk/htmls/ch_links.html", "r", encoding="utf-8") as file:
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
     links_code = file.read()
 
 soup = BeautifulSoup(links_code, "html.parser")
@@ -14,7 +19,11 @@ a_tags = soup.find_all('a')
 links_dict = {a_tag.strong.text.strip(): a_tag['href'] for a_tag in a_tags}
 
 # Save the dictionary to a JSON file
+<<<<<<< HEAD
 with open("tk/jsons/ch_links_2.json", "w", encoding="utf-8") as file:
+=======
+with open("tk/jsons/ch_links.json", "w", encoding="utf-8") as file:
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
     json.dump(links_dict, file, ensure_ascii=False, indent=4)
 
 # # Get the text from each <a> tag

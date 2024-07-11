@@ -1,4 +1,5 @@
 import json
+<<<<<<< HEAD
 import pyperclip
 import time
 
@@ -25,6 +26,27 @@ start_number, stop_number = get_start_end_numbers(start_num, stop_num, cycles)
 work_dictionary = working_dictionary(links_dict, start_number, stop_number)
 
 update_chapter_number(stop_number, cycles)
+=======
+
+import pyperclip
+
+from autocopy import update_chapter_number, next_tab, paste_and_enter, process_page
+
+from bs4 import BeautifulSoup
+from bs4_html_module import extract_chapter_html, convert_html_to_xhtml, replace_words_in_html
+import time
+
+
+# Read from 'tk/jsons/ch_links.json'
+with open('tk/jsons/ch_links.json', 'r', encoding='utf-8') as file:
+    data = json.load(file)
+
+start_number = 55
+
+stop_number = 80
+
+update_chapter_number(stop_number)
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
 
 replace_words = {'’': "'"}
 
@@ -34,6 +56,7 @@ intial_url = 'https://www.mtlnovel.com/the-king/chapter-1-through-no-1/'
 
 output_file = f'tk/jsons/chapters_data_{stop_number}.json'
 
+<<<<<<< HEAD
 # next_tab()
 
 open_chrome()
@@ -44,10 +67,23 @@ for key, url in work_dictionary.items():
     paste_and_enter()
     time.sleep(2)
     scroll_down()
+=======
+next_tab()
+
+for key, url in list(data.items())[start_number:stop_number+1]:
+    pyperclip.copy(url)
+    paste_and_enter()
+    time.sleep(2)
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
 
     process_page()
 
     page_source = pyperclip.paste()
+<<<<<<< HEAD
+=======
+    # with open(f'tk/htmls/{key}.html', 'w', encoding='utf-8') as file:
+    #     file.write(page_source)
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
     soup = BeautifulSoup(page_source, "html.parser")
     html = extract_chapter_html(soup.prettify())
     html = replace_words_in_html(html, replace_words)
@@ -59,6 +95,7 @@ for key, url in work_dictionary.items():
     with open(output_file, 'w', encoding='utf-8') as file:
         json.dump(chapters_data, file, ensure_ascii=False, indent=4)
 
+<<<<<<< HEAD
 next_tab()
 
 epub_file_name = f"tk_{stop_number}"
@@ -82,3 +119,6 @@ drive_folder_id = book_info['drive_folder_id']
 
 upload_f_to_g_drive(file_name=destination_file, folder_id=drive_folder_id)
 
+=======
+next_tab()
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841

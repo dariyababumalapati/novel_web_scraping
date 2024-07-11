@@ -141,6 +141,7 @@ def copy_useful_html(driver):
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
 
     url = "https://m.uuks.org/b/57664/72080102.html"
     driver = initiate_driver(url)
@@ -148,4 +149,6 @@ if __name__ == "__main__":
     driver = wait_to_translate(driver)
     time.sleep(300)
     driver.quit()
+=======
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
     print("extract_html_module.py running in main.")

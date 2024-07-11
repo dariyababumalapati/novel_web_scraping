@@ -157,6 +157,7 @@ def convert_html_to_xhtml(html_code):
     return doctype + '\n' + soup.prettify()
 
 
+<<<<<<< HEAD
 def check_chinese_text(text: str, relay) -> bool:
     # Define a regex pattern that matches Chinese characters
     chinese_pattern = re.compile('[\u4e00-\u9fff]')
@@ -164,6 +165,13 @@ def check_chinese_text(text: str, relay) -> bool:
     relay = bool(chinese_pattern.search(text))
     return relay
     # return bool(chinese_pattern.search(text))
+=======
+def check_chinese_text(text: str) -> bool:
+    # Define a regex pattern that matches Chinese characters
+    chinese_pattern = re.compile('[\u4e00-\u9fff]')
+    # Return True if any Chinese character is found, otherwise False
+    return bool(chinese_pattern.search(text))
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
 
 
 def update_chapter_number(chapter_number):

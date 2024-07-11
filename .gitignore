@@ -2,6 +2,7 @@
 __pycache__/
 config.py
 .env
+<<<<<<< HEAD
 
 # Ignore credential files
 share_file/client_secrets.json
@@ -14,5 +15,9 @@ creds/
 
 <<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
 =======
 >>>>>>> test1

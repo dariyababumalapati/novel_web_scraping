@@ -28,7 +28,11 @@ for x in range(81, 101):
 
         chapters_data[chapter_number] = xhtml_content
 
+<<<<<<< HEAD
         relay = check_chinese_text(html_content)
+=======
+        relay = check_chinese_text(html_content, relay)
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
 
         with open('fcse/chapters_data_101.json', 'w', encoding='utf-8') as f:
             json.dump(chapters_data, f, ensure_ascii=False, indent=4)

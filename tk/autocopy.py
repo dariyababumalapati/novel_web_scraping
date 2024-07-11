@@ -1,4 +1,5 @@
 import time
+<<<<<<< HEAD
 from itertools import dropwhile, takewhile
 import pyperclip
 import json
@@ -55,6 +56,16 @@ def update_chapter_number(end_number, cycles):
             data['chapter_number'] = end_number
     else:
         data['chapter_number'] = data['chapter_number'] + cycles
+=======
+import pyautogui
+import pyperclip
+import json
+
+def update_chapter_number(chapter_number):
+    with open('inproject_data.json', 'r', encoding='utf-8') as f:
+        data = json.load(f)
+        data['chapter_number'] = chapter_number
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
 
     with open('inproject_data.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4)
@@ -69,6 +80,7 @@ def get_inproject_data():
 
         return chapter_number, d_folder_list, novels
 
+<<<<<<< HEAD
 def open_chrome():
     # Allow some time to switch to the desktop
     time.sleep(2)
@@ -90,6 +102,8 @@ def open_chrome():
     # Maximize the window
     # pyautogui.hotkey('win', 'up')
 
+=======
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
 def next_tab():
     pyautogui.hotkey('alt', 'tab')  # Switch to Notepad
     time.sleep(0.5)  # Add a short delay between key presses
@@ -102,6 +116,7 @@ def paste_and_enter():
     # pyautogui.typewrite(url)  # Type the URL
     time.sleep(0.5)  # Add a short delay between key presses
     pyautogui.press('enter')  # Press Enter
+<<<<<<< HEAD
     time.sleep(1)  # Add a short delay between key presses
 
 
@@ -143,6 +158,9 @@ def contains_simplified_chinese(text):
 def refresh_page():
     pyautogui.hotkey('ctrl', 'r')
     time.sleep(1)  # Wait for the page to reload
+=======
+    time.sleep(0.5)  # Add a short delay between key presses
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
 
 def process_page():
     # Simulate keypresses to copy and paste
@@ -156,6 +174,7 @@ def process_page():
     time.sleep(1)  # Wait for translation
 
 
+<<<<<<< HEAD
 
 if __name__ == "__main__":
         # Example usage
@@ -172,3 +191,12 @@ if __name__ == "__main__":
     cycles = 2
     work_dict = working_dictionary(full_dict, start_number, end_number, cycles)
     # print(work_dict)
+=======
+if __name__ == "__main__":
+    # Perform the process for multiple pages
+    num_pages = 9  # Change this to the number of pages you want to scrape
+
+    for _ in range(num_pages):
+        process_page()
+
+>>>>>>> dca2e1185edd59f6ea541d656791141560c15841
